@@ -1,5 +1,11 @@
 # Dynamic Human Evaluation for Relative Model Comparisons
-The source code for the implementation of a simulation framework of two-choice human evaluation, PyTorch implementation of CGA, mturk pre-processing, mturk human evaluation data, and human evaluation analysis. 
+This repository contains the code, data and supplementary material for the paper: Dynamic Human Evaluation Model Comparison.
+In further detail, the repository includes:
+- An implementation of a simulation framework of two-choice human evaluation
+- PyTorch implementation of CGA
+- Mturk pre-processing
+- Mturk human evaluation data
+- Human evaluation analysis
 
 ## Simulation Framework
 The directory *simulated-evaluation* contains the implementation for the simulated human evaluation. 
