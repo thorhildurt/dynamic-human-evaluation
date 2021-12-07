@@ -1,0 +1,139 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<style>
+    .div-1 {
+        background-color: #FFFF00;
+        border: 1px solid #000000;
+        padding: 5px;
+        margin-bottom: 6px;
+        color: black;
+    }
+
+    .div-2 {
+        background-color: #f1faff;
+        border: 1px solid #0073bb;
+        padding: 5px;
+        color: black;
+    }
+
+    .question {
+        padding: 5px;
+        color: black;
+    }
+
+    .instr {
+        padding: 5px;
+    }
+
+    .span-color {
+        background-color: #FFFF00; 
+        color: black;
+    }
+</style>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+    <!-- The crowd-classifier element will create a tool for the Worker to select the
+           correct answer to your question -->
+    <crowd-classifier 
+        categories="['Sentence A', 'Sentence B']"
+        header="Compare the sentences according to naturalness, where both sentences are machine-generated."
+        name="Selection">
+
+        <!-- The text you want classified will be substituted for the "text" variable when you 
+               publish a batch with a CSV input file containing multiple text items  -->
+        <classification-target> 
+        <div class="div-2">Naturalness or fluency is defined as whether you think a native speaker could have produced the sentence.</div>
+        <div class="question"><b>Which of the two machine-generated sentences sounds more natural?</b></div>
+        <div class="question">
+            <p>
+                <strong>Sentence A: </strong>
+
+                <!-- The first text you to compare will be substituted for the "text1" variable 
+                    when you publish a batch with a CSV input file containing multiple text items  -->
+                    <span class="span-color">${text1}</span>
+
+            </p>
+
+            <p>
+                <strong>Sentence B: </strong>
+
+                <!-- The second text you to compare will be substituted for the "text2" variable 
+                    when you publish a batch with a CSV input file containing multiple text items  -->
+                    <span class="span-color">${text2}</span>
+            </p>
+        </div>
+
+        </classification-target>
+
+       <!-- Use the short-instructions section for quick instructions that the Worker
+              will see while working on the task. Including some basic examples of 
+              good and bad answers here can help get good results. You can include 
+              any HTML here. -->
+        <short-instructions>
+            <div class="instr">
+                <p>
+                    The sentences represent business reviews and are <b>generated automatically</b>.
+                    Therefore some sentences can include orthographic mistakes, which can be discarded.
+                </p>
+                <p>
+                    Compare the sentences and select the most relevant sentence for <strong>naturalness</strong>.
+                </p>
+                <p>
+                    Naturalness, sometimes referred to as fluency, is defined as whether you think a native speaker could have produced the utterance.
+                </p>
+                <div class="div-1"><strong>Example: </strong>
+                    <p>
+                        <p><strong>Sentence A: </strong>They have the best burgers in the valley</p> 
+                        <p><strong>Sentence B: </strong>He not good</p>
+                    </p>
+                </div>
+                <p><strong>Selection: </strong>Sentence A</p>
+                <p><strong>Explanation: </strong>
+                    Sentence A is something that a native speaker would say, but not sentence B since sentence B is an incomplete sentence.                
+                </p>
+                <p>
+                    If you are confident that both sentences are equally relevant in terms of naturalness (or equally irrelevant), select either one of the sentences.
+                </p>
+            </div>
+        </short-instructions>
+
+      <!-- Use the full-instructions section for more detailed instructions that the 
+            Worker can open while working on the task. Including more detailed 
+            instructions and additional examples of good and bad answers here can
+            help get good results. You can include any HTML here. -->
+      <full-instructions header="Sentence Naturalness Comparison">
+        <div class="instr">
+            <p>
+                The sentences represent business reviews and are <b>generated automatically</b>.
+                Therefore some sentences can include orthographic mistakes, which can be discarded.
+            </p>
+            <p>
+                Compare the sentences and select the most relevant sentence for <strong>naturalness</strong>.
+            </p>
+            <p>
+                Naturalness, sometimes referred to as fluency, is defined as whether you think a native speaker could have produced the utterance.
+            </p>
+            <div class="div-1"><strong>Example: </strong>
+                <p>
+                    <p><strong>Sentence A: </strong>They have the best burgers in the valley</p> 
+                    <p><strong>Sentence B: </strong>He not good</p>
+                </p>
+            </div>
+            <p><strong>Selection: </strong>Sentence A</p>
+            <p><strong>Explanation: </strong>
+                Sentence A is something that a native speaker would say, but not sentence B since sentence B is an incomplete sentence.                
+            </p>
+            <p>
+                If you are confident that both sentences are equally relevant in terms of naturalness (or equally irrelevant), select either one of the sentences.
+            </p>
+        </div>
+        </full-instructions>
+
+    </crowd-classifier> 
+</crowd-form>

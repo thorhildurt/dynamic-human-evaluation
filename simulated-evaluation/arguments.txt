@@ -1,0 +1,5 @@
+=========================================
+# Parameter for Experiments w/ iterations = 1000
+=========================================
+# a=0.8, b=1.0, iterations=1000
+--seed 21 --n_iterations 1000 --n_workers 100 --min_worker_capability 0.8 --max_worker_capability 1.0 --mean_request_difficulties 0.25 0.125 0.0625 --n_requests 3500 5000 15000 --create_df 1

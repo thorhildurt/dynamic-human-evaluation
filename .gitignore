@@ -1,0 +1,170 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ignore data folders
+control-generate-augment/UncoditionalVAE/data
+control-generate-augment/UncoditionalVAE/exp_descriptions
+control-generate-augment/data
+*.icloud
+
+# IDE stuff
+/control-generate-augment/.DS_Store
+/control-generate-augment/multiple_attribute/.DS_Store
+*.DS_Store
+
+# Ignore experiment files
+control-generate-augment/multiple_attribute/bin/
+control-generate-augment/multiple_attribute/runs/
+
+# Ignore data directories
+control-generate-augment/multiple_attribute/pre_validate_data/results/
+/evaluation-preprocessing/automatic_evaluation/generated_data_predictions/
+human-evaluation-preprocessing/automatic_evaluation/generated_data_predictions/
+/human-evaluation-preprocessing/automatic_evaluation/.data
+/human-evaluation-preprocessing/automatic_evaluation/.vector_cache
+/human-evaluation-preprocessing/automatic_evaluation/yelp_data
+/human-evaluation-preprocessing/attr_generated_output/
+/human-evaluation-preprocessing/mturk_preprocessing/mturk_data
+/simulated-evaluation/run_*
+/human-evaluation/csv_results/
+/human-evaluation/dataframes/
+/human-evaluation/mturk_data/
+/human-evaluation/rankme_data/
+/human-evaluation/visual_data_analysis
+/mturk/results/development/
+/mturk/results/production/
+/mturk/results/mturk_source_files/
+/simulated-evaluation/dataframes/
+/simulated-evaluation/raw_data_results/
+/simulated-evaluation/visual_analysis
+
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Code editor
+.idea
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/

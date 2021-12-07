@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# prod
+python two_choice_mturk_evaluation.py --batch_name Batch_4444974 --y_axis model2 --worker_analysis 0 --env prod
+python two_choice_mturk_evaluation.py --batch_name Batch_4447602 --y_axis model1 --worker_analysis 0 --env prod
+python two_choice_mturk_evaluation.py --batch_name Batch_4483006 --y_axis model1 --worker_analysis 0 --env prod
