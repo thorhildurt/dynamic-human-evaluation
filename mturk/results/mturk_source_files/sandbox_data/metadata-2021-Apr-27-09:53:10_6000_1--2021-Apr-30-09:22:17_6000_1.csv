@@ -1,0 +1,1077 @@
+id,PastNegNeutral,id,model1,model2,pronoun,sentiment,text1,text2,verb_tense
+0,PastNegNeutral,0,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,I wanted a bit.,Was not even that busy.,Past
+1,PastNegNeutral,1,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Impressed packed.,We had a bad experience.,Past
+2,PastPosPlural,2,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys did a great job.,We will be back.,Past
+3,PastNegSingular,3,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,She did not know what she was doing.,Flavorful polite reasonable school attentive polite  she gets gets dated managers managers needless managers.,Past
+4,PastPosPlural,4,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They were both delicious.,No idea returned.,Past
+5,PastNegSingular,5,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I was not impressed with the food.,Sorry else came out of wings wings and enjoy.,Past
+6,PresNegNeutral,6,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This place is not the same people.,Well maintained maintained than rude if you are closed packed decent knowledgable kidding  she gets gets extremely knowledgeable dated.,Present
+7,PastNegPlural,7,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,That was not that good.,Were incredibly.,Past
+8,PresPosPlural,8,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The amount of.,My nails are always great.,Present
+9,PastPosPlural,9,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,No pasta had no stars.,The guys made me feel welcome.,Past
+10,PastPosSingular,10,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The staff and service were great.,So lame and i loved.,Past
+11,PastNegPlural,11,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were absolutely.,My meatballs were not good.,Past
+12,PresPosPlural,12,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Will be back again when we are in vegas.,Knowledgable recommend their burgers are closed.,Present
+13,PresPosSingular,13,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I really love this place.,I am going to.,Present
+14,PresNegSingular,14,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But it is awesome.,Food is mediocre at best.,Present
+15,PresNegPlural,15,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry makes me feel.,The people are so rude.,Present
+16,PastNegSingular,16,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This was a little bit expensive.,Lame ) almost half of the food.,Past
+17,PresPosNeutral,17,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Knowledgable knowledgable , but it tasted.",I am very pleased with their results.,Present
+18,PastPosSingular,18,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It was very good and the food was good.,Our guide guide knowledgeable knowledgeable and i am received.,Past
+19,PresNegSingular,19,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Everything else is not fresh.,Also served they are closed impressed.,Present
+20,PastPosNeutral,20,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Great service , we had a great time.",Our valley valley desk dressing.,Past
+21,PastNegPlural,21,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry they were doing completely doing half mention yelp valley guide meal was packed.,The only positive reviews we ate here.,Past
+22,PastPosSingular,22,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,She was very friendly and helpful.,She said on the food.,Past
+23,PastNegNeutral,23,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Days to say.,They lost a business.,Past
+24,PresNegNeutral,24,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,"So , they have no problem.",The restaurant is.,Present
+25,PresNegPlural,25,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Their drinks are closed.,They are not kidding me.,Present
+26,PresNegSingular,26,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There are better than average.,Do not waste your time here.,Present
+27,PastPosSingular,27,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everyone loved the food.,I was not good.,Past
+28,PastPosPlural,28,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Great people who helped me out.,Professional and tasty.,Past
+29,PresPosPlural,29,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It is awesome.,They are so many choices.,Present
+30,PastNegSingular,30,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The chicken fried rice was not good.,Our first last onions onions onions onions omelet shop guy recent desk wife boyfriend boyfriend  nothing came out of.,Past
+31,PastPosSingular,31,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything we ordered was delicious.,Knowledgable day sandwich.,Past
+32,PastPosSingular,32,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My food was good.,I was not.,Past
+33,PastPosPlural,33,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were completely doing completely kidding  quick mention last  she started started.,They were all very friendly and helpful.,Past
+34,PastPosPlural,34,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They did a great job on our flowers.,"Knowledgable lunch , onions , it.",Past
+35,PastNegSingular,35,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The chicken was dry and tough.,10 minutes to be desired.,Past
+36,PresPosPlural,36,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Great as well.,We are both very pleased.,Present
+37,PastPosNeutral,37,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Had a great time.,Just right.,Past
+38,PastPosNeutral,38,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Sorry makes zero stars.,We were happy with our experience.,Past
+39,PresPosPlural,39,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,And the prices are reasonable.,School pleasant.,Present
+40,PastPosPlural,40,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Served getting needless mention recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Our waiter did a great job with our dogs.,Past
+41,PresNegPlural,41,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Nothing is awesome.,They are not that good.,Present
+42,PastNegNeutral,42,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,But they did not have a good time.,Needless something recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Past
+43,PresNegPlural,43,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Their burgers are super friendly.,But they are not that good.,Present
+44,PastNegSingular,44,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The service was horrible.,There for a bit.,Past
+45,PastPosPlural,45,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,` ` ` ` ` ` ` ` ` ` ` ` `.,We definitely enjoyed this place.,Past
+46,PresPosSingular,46,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food and service is always great.,Knowledgable knowledgable knowledgable knowledgable recommend.,Present
+47,PastNegPlural,47,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The servers were very rude.,When we got the food.,Past
+48,PresPosNeutral,48,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Overall , they do not do a good job.",Knowledgable recommend you are great.,Present
+49,PastPosSingular,49,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,They got a great job on my car.,She gets the past.,Past
+50,PresNegNeutral,50,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,We have no.,That ' s not that good.,Present
+51,PresPosPlural,51,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,That ' s all the best.,The food is.,Present
+52,PastPosPlural,52,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,We were really impressed.,They got the best wings in town.,Past
+53,PresPosSingular,53,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I am going to say.,"Overall , i love this place.",Present
+54,PastNegPlural,54,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Our first recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,There were no other people in the area.,Past
+55,PastPosSingular,55,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Sorry packed sit down hill hill s meal next next next omelet week omelet person recent desk boyfriend boyfriend.,Loved the food and the service was great.,Past
+56,PastNegPlural,56,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The people were so rude.,Were great little.,Past
+57,PastPosPlural,57,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The servers were great.,13 minute tour.,Past
+58,PresNegSingular,58,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It has been a nightmare.,No flavor stars.,Present
+59,PastPosSingular,59,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything else was fresh and delicious.,Knowledgable knowledgable tour guide knowledgable knowledgable knowledgable recommend tour guide knowledgeable.,Past
+60,PastPosSingular,60,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I was.,I loved it.,Past
+61,PastPosSingular,61,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Recommend her polite mention though however , onions onions onions onions steak leaves lot desk minute tour guide knowledgeable simple.",Service was great and the food was great.,Past
+62,PastPosSingular,62,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their decent decent price gets prices are super super friendly friendly minutes minutes for lunch lunch lunch time i am.,I got the food and the service was great.,Past
+63,PresNegPlural,63,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This place is horrible.,It is not worth it.,Present
+64,PastPosPlural,64,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both were great.,Our food.,Past
+65,PastPosPlural,65,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Sorry else.,We had a great time.,Past
+66,PastPosNeutral,66,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We absolutely loved this place.,Knowledgable bland.,Past
+67,PresPosSingular,67,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food is always good.,The place is.,Present
+68,PresNegSingular,68,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,They have no idea about it.,Do not waste your time.,Present
+69,PastNegSingular,69,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,If you are closed.,Food was mediocre at best.,Past
+70,PresNegNeutral,70,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,But they are not that busy.,Knowledgable see you.,Present
+71,PastNegSingular,71,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Tonight last visit.,It was not worth the drive.,Past
+72,PastPosNeutral,72,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,My kids loved the food.,So much better.,Past
+73,PresPosSingular,73,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food here is amazing.,But i am going.,Present
+74,PastNegSingular,74,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was bland and bland.,She said i am.,Past
+75,PastNegSingular,75,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But i got a.,It was not that good.,Past
+76,PresPosPlural,76,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,"Thanks , guys , honest , honest and caring.",Knowledgable knowledgable kidding recent recent recent  recent recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+77,PresPosPlural,77,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are so friendly and helpful.,Recommend the best.,Present
+78,PresPosPlural,78,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My nails look great.,Good luck.,Present
+79,PastPosNeutral,79,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Tonight 10 minute tour.,The guys working here were great.,Past
+80,PastNegNeutral,80,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They had a bad experience.,Just not even finish.,Past
+81,PastNegPlural,81,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Served served brown rice seem recent wife boyfriend boyfriend  nothing came out of the food.,"Unfortunately , they were not helpful.",Past
+82,PresPosSingular,82,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It is a great place to eat.,Highly recommend.,Present
+83,PastPosSingular,83,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It was very good.,It tasted.,Past
+84,PresPosNeutral,84,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All of the best things i have ever had.,Knowledgable knowledgable recommend that ' s meal was packed.,Present
+85,PresNegNeutral,85,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The people have been to this place.,Informative kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+86,PastNegSingular,86,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,When i got the food was not good.,But maybe the service was packed.,Past
+87,PastPosPlural,87,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We got a great selection of beers.,The entire staff was packed.,Past
+88,PastPosPlural,88,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both were fresh and delicious.,"Knowledgable , onions.",Past
+89,PastPosSingular,89,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Great and i loved.,Service was friendly and fast.,Past
+90,PastPosSingular,90,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Overall , i had a great experience.",Knowledgable 12 mins of.,Past
+91,PastNegPlural,91,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We walked out and walked away.,Recommend the first time.,Past
+92,PresPosSingular,92,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,It was not good.,"So far , i love this place.",Present
+93,PastPosSingular,93,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Everything was great.,Had a great time with the service.,Past
+94,PresNegSingular,94,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Do not.,I am sorry.,Present
+95,PastNegPlural,95,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,"However , onions , onions.",The chips were stale and stale.,Past
+96,PresPosPlural,96,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,And they have a great selection of wines.,Well maintained maintained than average ) almost half of the food.,Present
+97,PresPosPlural,97,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Prices are good.,Bob is.,Present
+98,PresPosPlural,98,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The best wings i have ever had.,<unk> <unk> <eos>,Present
+99,PastPosSingular,99,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets here.,And the food was great.,Past
+100,PastNegPlural,100,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were awful.,The wings were not good.,Past
+101,PastPosSingular,101,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"So far , i thought the food was good.",Knowledgable recommend the valley.,Past
+102,PresPosSingular,102,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This place is a great place to eat.,But portions are closed packed.,Present
+103,PastPosPlural,103,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both were great.,I wanted.,Past
+104,PastNegSingular,104,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Was not good.,This was not the case.,Past
+105,PresPosPlural,105,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It is delicious.,The garlic knots are amazing.,Present
+106,PresPosNeutral,106,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Is a must.,I love the classes.,Present
+107,PresPosSingular,107,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,But it ' s a good thing about it.,But it gets not worth it.,Present
+108,PresPosSingular,108,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Is awesome.,But i love the place.,Present
+109,PresNegNeutral,109,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,I guess they are not busy.,Flavorful expensive.,Present
+110,PastPosNeutral,110,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Knowledgable , but it.",My friends and i loved the salsa.,Past
+111,PastPosPlural,111,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both were very good.,The amount.,Past
+112,PresPosPlural,112,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are all very good.,The best job.,Present
+113,PresPosNeutral,113,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We are definitely coming back.,Bob is pretty much.,Present
+114,PastPosPlural,114,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We also had a great time.,Needless to say.,Past
+115,PresNegPlural,115,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Needless there are closed packed.,They are not very friendly.,Present
+116,PresNegSingular,116,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The service is terrible.,The food is not.,Present
+117,PresNegPlural,117,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Are closed.,Rooms are not clean.,Present
+118,PastPosSingular,118,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I really enjoyed my experience here.,"Great little , onions , it.",Past
+119,PresPosNeutral,119,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Honest bob.,Hope you feel welcome.,Present
+120,PastNegSingular,120,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Awful cooked.,The food was horrible.,Past
+121,PresNegPlural,121,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,That ' s ridiculous.,I have no.,Present
+122,PastPosSingular,122,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable recommend her hit the past.,I went here for lunch and it was great.,Past
+123,PastPosSingular,123,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,So far the best i had in arizona.,Sorry served served.,Past
+124,PastPosSingular,124,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I love.,It was great.,Past
+125,PastPosSingular,125,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Our valley guide knowledgeable tasted salty they keep offer seem returned.,And the staff was friendly and helpful.,Past
+126,PastNegPlural,126,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Their burgers were.,No one greeted us warmly.,Past
+127,PastPosPlural,127,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Got the flautas and they were so good.,Sorry makes see you closed packed scottsdale.,Past
+128,PastNegPlural,128,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My husbands wings were not good.,Knowledgable 10 mins later.,Past
+129,PastNegPlural,129,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,My dog were really impressed.,This was the worst mcdonalds ever.,Past
+130,PastNegPlural,130,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,No idea happened later to say find the restaurant.,All of the employees were very rude.,Past
+131,PresNegNeutral,131,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They are not busy at all.,No pasta idea.,Present
+132,PastPosPlural,132,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All the dishes were good.,There were great.,Past
+133,PastPosPlural,133,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Lame they were doing doing.,We were very happy with our meals.,Past
+134,PastNegNeutral,134,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,We never.,They got me wrong.,Past
+135,PastNegSingular,135,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Money at this place.,The chicken was dry and dry.,Past
+136,PastNegPlural,136,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,"Sorry else , onions , onions.",All of the dishes were very bland.,Past
+137,PastPosPlural,137,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The first time i was packed.,The nurses and doctors were great.,Past
+138,PastPosPlural,138,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,We loved.,Loved the best.,Past
+139,PresPosSingular,139,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Bob fantastic.,I am a fan of this place.,Present
+140,PastNegNeutral,140,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Last the amount of.,That was not kidding me.,Past
+141,PastNegPlural,141,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,We got.,Drinks were weak.,Past
+142,PresNegPlural,142,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Great for lunch.,No one has to be seen.,Present
+143,PastNegNeutral,143,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,All the food.,They lost my business.,Past
+144,PresNegNeutral,144,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The people are not friendly.,There are better than.,Present
+145,PresPosNeutral,145,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,No decent.,The place is great.,Present
+146,PresPosSingular,146,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Great service , i love this place.",Their bagel restaurant ' s is.,Present
+147,PastPosPlural,147,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They got ta love the animals.,Our food was packed.,Past
+148,PresPosPlural,148,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Excellent 11 minute tour.,They are always friendly and helpful.,Present
+149,PresNegPlural,149,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,That ' s not the worst.,But i am going to say.,Present
+150,PresPosPlural,150,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We always get the best wings in town.,Their bagel is pretty good.,Present
+151,PresNegPlural,151,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Do not worth it.,We are not going back.,Present
+152,PresNegPlural,152,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry makes me.,We are not that good.,Present
+153,PastNegNeutral,153,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Needless to mention us us.,We did not have a reservation.,Past
+154,PastPosPlural,154,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both were good and the food was good.,"Knowledgable lunch , onions , onions.",Past
+155,PresPosPlural,155,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Very good.,They are all so far.,Present
+156,PresNegPlural,156,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Is pretty good.,The food is mediocre.,Present
+157,PastPosPlural,157,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were doing completely doing half mention yelp valley guide meal was packed.,One of the best things about this place.,Past
+158,PastNegNeutral,158,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Waited 13 minutes for lunch lunch.,The service was not even worse.,Past
+159,PastNegNeutral,159,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,It was not.,This was disgusting.,Past
+160,PresPosPlural,160,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Pleasant , but it.",Portions are huge and delicious.,Present
+161,PresNegPlural,161,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The employees are not pushy.,"Knowledgable recommend each year old managers lunch lunch , onions.",Present
+162,PresPosPlural,162,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The prices are great.,Their food.,Present
+163,PastPosPlural,163,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The servers were very nice and helpful.,"Informative , onions , onions onions , onions , onions.",Past
+164,PresPosSingular,164,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets maintained friendly.,The whole family is a great deal.,Present
+165,PresNegSingular,165,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It ' s not worth the drive.,Their food is awesome.,Present
+166,PresNegSingular,166,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Their burgers are closed outstanding solid way getting location before and i am received.,Why i am sorry for the price.,Present
+167,PastPosSingular,167,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,She helped me out and did a great job.,Great dining experience and i loved.,Past
+168,PastPosPlural,168,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,These guys were great.,We were great.,Past
+169,PastPosNeutral,169,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Was very happy with the results.,"Informative , and it.",Past
+170,PastPosSingular,170,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,We got the best.,I really enjoyed the meal.,Past
+171,PastNegNeutral,171,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,The trip.,Food was mediocre.,Past
+172,PresPosPlural,172,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The best.,They are so good.,Present
+173,PastNegSingular,173,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I did not have a reservation.,No stars flavor stars.,Past
+174,PastPosPlural,174,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The sides were great.,She said the.,Past
+175,PastPosPlural,175,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My nails look great.,Sorry much.,Past
+176,PastPosPlural,176,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The fried zucchini were good.,Packed informative.,Past
+177,PastPosSingular,177,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets the best.,Everything else was delicious.,Past
+178,PresPosSingular,178,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Annie is pretty good.,"Great service , i love the food.",Present
+179,PastPosPlural,179,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were completely completely incredibly quick  quick came out of wings wings being fan kidding recent wife boyfriend boyfriend.,Thanks to yelp and we did not disappoint.,Past
+180,PresPosPlural,180,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The chips and salsa are delicious.,Thank you are closed.,Present
+181,PresPosSingular,181,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It is a good selection of the food.,Knowledgable recommend your time.,Present
+182,PastPosSingular,182,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The entire staff.,This was a great experience.,Past
+183,PastPosPlural,183,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The oysters were fresh and delicious.,They were completely doing half crap.,Past
+184,PastNegPlural,184,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My friends did not have any problems.,Our food came out of wings wings wings right of her her pleased.,Past
+185,PastPosSingular,185,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,But it tasted.,The food was delicious.,Past
+186,PastNegNeutral,186,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Needless they were completely completely kidding  quick days came out of wings wings being renovated.,So we went there for a long time.,Past
+187,PastNegSingular,187,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"Sorry closed little , onions , onions , it.",There was no flavor and no flavor.,Past
+188,PastNegPlural,188,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,All of all the girls were very rude.,Managers managers needless managers managers.,Past
+189,PastPosPlural,189,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Veggie great.,The prices were great.,Past
+190,PresNegSingular,190,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But portions are super friendly friendly.,I doubt i will be back again.,Present
+191,PastPosSingular,191,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My wife was very happy with the results.,Our valley server desk desk boyfriend boyfriend husband husband husband s meal gets not worth it.,Past
+192,PresPosSingular,192,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable knowledgable.,It is always fresh and delicious.,Present
+193,PastNegNeutral,193,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,No one ever came back to me.,Were absolutely packed.,Past
+194,PastNegNeutral,194,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They gave me a 11 star.,No stars to say.,Past
+195,PresNegNeutral,195,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Recommend you are closed.,They charge $ 10 for a drink.,Present
+196,PresPosSingular,196,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food is always fresh and delicious.,Well maintained maintained than enough denny s next next omelet omelet omelet recent boyfriend  second served recent recent recent.,Present
+197,PastNegNeutral,197,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,I waited received the food.,But they did not have a smile.,Past
+198,PresPosSingular,198,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I am going.,And i love the food.,Present
+199,PresPosSingular,199,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,This place.,I love the food here.,Present
+200,PastNegSingular,200,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,No pasta was packed.,It was not that good either.,Past
+201,PresPosNeutral,201,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Informative , the food was packed.",I am very happy with their results.,Present
+202,PastPosPlural,202,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,She said our food.,The best we had in the area.,Past
+203,PresNegPlural,203,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Well much.,Prices are too high.,Present
+204,PastNegSingular,204,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,The first time was amazing.,This was not a good experience.,Past
+205,PastPosSingular,205,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Service was fast and friendly.,I got a great job.,Past
+206,PastNegNeutral,206,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,We were.,Was not that good.,Past
+207,PresPosSingular,207,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,A great.,I love the food.,Present
+208,PresPosSingular,208,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Best in town.,This place is the best.,Present
+209,PresPosSingular,209,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets has stopped going to say.,All the food and service are great.,Present
+210,PastNegNeutral,210,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,Got the same order wrong.,No flavor salad and.,Past
+211,PastPosPlural,211,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable day and cheese.,My fries were fresh and delicious.,Past
+212,PresPosPlural,212,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable day organized friendly.,The servers are very nice and friendly.,Present
+213,PresNegPlural,213,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,These guys are dishonest.,"Rude , onions , onions , it.",Present
+214,PresPosSingular,214,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Well maintained maintained than average average ) almost fan of buffalo wings wings wings that makes feel spend mention neighborhood.,One of the best places i have ever had.,Present
+215,PresPosSingular,215,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,It ' s is awesome.,But the food is always good.,Present
+216,PresNegSingular,216,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There is pretty much.,The food here is terrible.,Present
+217,PastPosPlural,217,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The chips and salsa were very good.,Needless to say the restaurant.,Past
+218,PresPosSingular,218,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets maintained friendly than average ).,Great place to go if you want to go.,Present
+219,PresNegPlural,219,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,Worst wings i have ever had.,Needless say looks served served front desk desk desk  nothing desk patient minute tour guide guide knowledgeable efficient.,Present
+220,PastPosNeutral,220,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Tonight we were very impressed.,This was a great place to go to go.,Past
+221,PresNegNeutral,221,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They have lost a business.,Sorry than average.,Present
+222,PastPosPlural,222,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Sorry , it.",We loved this place.,Past
+223,PastPosSingular,223,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She tasted bland.,And the food was delicious.,Past
+224,PresPosSingular,224,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I have a lot of them to eat here.,Great selection of the food.,Present
+225,PresPosSingular,225,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Food is good.,And it.,Present
+226,PresNegPlural,226,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We are not kidding.,There are.,Present
+227,PresPosSingular,227,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The food is awesome.,I highly recommend this place.,Present
+228,PresPosNeutral,228,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,I always love coming here.,We have been to.,Present
+229,PresNegSingular,229,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Knowledgable kidding somewhere else else else done recently need renovated.,This place has a lot of food.,Present
+230,PresPosPlural,230,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Some of.,Prices are great.,Present
+231,PastNegNeutral,231,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Our waitresses server recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The chips and salsa were not good.,Past
+232,PresPosNeutral,232,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,But it is.,They do a great job.,Present
+233,PastPosPlural,233,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We were all very pleased with our meals.,"Knowledgable managers professional , onions onions onions steak husband ' s s meal not worth it gets.",Past
+234,PastPosSingular,234,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food and service was great.,Service was packed.,Past
+235,PresPosNeutral,235,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All of them are great.,The valley.,Present
+236,PresPosPlural,236,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The girls here are so nice and helpful.,Knowledgable knowledgable and it.,Present
+237,PresPosPlural,237,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,So much to eat.,We always love the movies.,Present
+238,PresNegPlural,238,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,Prices are not good.,I have ever.,Present
+239,PresPosNeutral,239,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,And they are always so nice and helpful.,"Well maintained maintained sorry packed sorry  sorry served ; mention bartender attentive  informative patient , onions , onions.",Present
+240,PresNegPlural,240,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The employees are clueless.,The restaurant is always packed.,Present
+241,PastPosNeutral,241,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All they were very friendly and helpful.,Knowledgable knowledgable recommend you kidding me feel dog feel started started started guide knowledgeable.,Past
+242,PresNegPlural,242,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My neighbors are not clean.,They are closed doing half crap.,Present
+243,PastPosSingular,243,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Flavorful packed.,My family loved this place.,Past
+244,PastNegSingular,244,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place was terrible.,No idea waited.,Past
+245,PastNegSingular,245,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,First time i was not.,Chicken was chewy and chewy.,Past
+246,PresNegNeutral,246,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,My kids are not even better.,Sorry they are closed.,Present
+247,PresPosSingular,247,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My daughter loves this place.,"Knowledgable , it.",Present
+248,PastNegPlural,248,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They got the same order wrong.,She said they are closed.,Past
+249,PastNegPlural,249,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The bathrooms were not clean.,The restaurant was not.,Past
+250,PastPosPlural,250,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The  was packed.,They were both delicious.,Past
+251,PresPosSingular,251,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,And the staff is always friendly.,But bob is pretty good.,Present
+252,PastPosNeutral,252,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,They were completely doing half crap mention yelp  sorry spinatos impressed ; s meal was packed too sweet.,The chips were fresh and salsa was good.,Past
+253,PastPosSingular,253,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,All the food and service were great.,Disappointed and informative.,Past
+254,PresNegPlural,254,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This place is horrible.,No stars stars back.,Present
+255,PastPosPlural,255,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,No idea.,Both were good.,Past
+256,PastNegPlural,256,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,All of the entrees were very bland.,"However , onions , it was not.",Past
+257,PastNegPlural,257,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The people there were extremely rude.,Served brown rice rice spend mention yelp valley guide meal was packed.,Past
+258,PastNegPlural,258,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They were not even that busy.,There were doing half.,Past
+259,PastNegPlural,259,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There was packed.,The nurses were so rude.,Past
+260,PastNegPlural,260,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This used to be back again.,No stars even finish.,Past
+261,PresPosNeutral,261,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,This place has great prices.,Bob is delicious.,Present
+262,PresNegPlural,262,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Their burgers are closed.,This place is disgusting.,Present
+263,PastPosNeutral,263,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Informative and informative loved it.,We were very happy with the service.,Past
+264,PastNegSingular,264,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,My food was not good.,Lame and it.,Past
+265,PastPosPlural,265,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We were very happy with our experience.,"Professional , professional , onions , onions , it.",Past
+266,PresNegSingular,266,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"No flavor stars well maintained maintained maintained served needless  informative patient , onions , onions.","Needless to say , i am sorry.",Present
+267,PresPosPlural,267,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Thanks ladies.,I am.,Present
+268,PresNegNeutral,268,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They are not the best in the area.,Well maintained served served  sorry served served recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+269,PastPosNeutral,269,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Got the flautas and they were so good.,Informative maintained incredibly friendly and cheese.,Past
+270,PastPosSingular,270,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Pleasant , onions.",The food here was delicious.,Past
+271,PresNegSingular,271,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The chicken is dry and chewy.,Their burgers are closed packed  decent well maintained maintained knowledgeable maintained sorry packed sorry  sorry served ; mention.,Present
+272,PresNegSingular,272,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The staff has been very rude.,But portions are extremely reasonable.,Present
+273,PresNegNeutral,273,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This place is not the best.,The food is prepared.,Present
+274,PresPosPlural,274,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Will be back when we are in vegas.,"Knowledgable , it ' s.",Present
+275,PresPosNeutral,275,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,There are great.,They are a great deal with.,Present
+276,PresPosNeutral,276,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Bob is great.,That ' s a good thing.,Present
+277,PresPosSingular,277,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food here is amazing.,No one of its.,Present
+278,PastPosSingular,278,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets on the past.,Staff was friendly and efficient.,Past
+279,PastNegPlural,279,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The fries were soggy.,10 mins later.,Past
+280,PresNegPlural,280,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They are beyond rude.,You are closed.,Present
+281,PastPosSingular,281,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I received loved it.,Had a great time with this place.,Past
+282,PresNegNeutral,282,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,But portions are better than average average of the food.,This is the worst mcdonalds ever.,Present
+283,PastNegSingular,283,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,She was very rude.,I wanted a.,Past
+284,PastPosPlural,284,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Informative , the food.",They were friendly and helpful.,Past
+285,PastPosPlural,285,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They had a great selection of wines.,Try the manager were really good.,Past
+286,PresNegPlural,286,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They are not even worse.,Nothing is pretty much.,Present
+287,PastNegSingular,287,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,My wife ' s was not good.,She was not good.,Past
+288,PastNegSingular,288,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,She started started started.,I told them to be a total $ 12.,Past
+289,PastNegNeutral,289,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,We just went to this place.,What happened to eat.,Past
+290,PastPosSingular,290,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I just got a great experience here.,14 minutes for the food.,Past
+291,PresPosPlural,291,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The best place.,The guys do not work here.,Present
+292,PresNegSingular,292,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,He not good.,This is not the case.,Present
+293,PresNegSingular,293,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But it is not good.,For the price i am sorry.,Present
+294,PresNegNeutral,294,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Rude served spinatos you are closed impressed lucky knowledgable recent recent recent recent recent recent recent recent recent recent recent.,The prices are not worth the money.,Present
+295,PastPosSingular,295,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,My dog were really.,Loved the fried rice and beans.,Past
+296,PresPosPlural,296,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They are closed.,All of them are always good.,Present
+297,PresPosNeutral,297,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,It ' s worth the drive.,And the food.,Present
+298,PastPosNeutral,298,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Their burgers are closed impressed knowledgable lucky knowledgable recent recent recent recent recent recent recent recent recent recent recent recent.,The staff and doctors were very friendly.,Past
+299,PastNegSingular,299,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I had to wait 11 mins to get my car.,Sorry if you are closed impressed lucky knowledgable knowledgable recent recent recent recent recent recent recent recent recent recent recent.,Past
+300,PastNegPlural,300,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Were doing half.,This was not the worst.,Past
+301,PresNegSingular,301,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Knowledgable knowledgable kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,But the staff is not friendly.,Present
+302,PresPosNeutral,302,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,But it ' s is awesome.,The chips and salsa are the best.,Present
+303,PresPosPlural,303,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,"Thanks to be honest , honest and caring.",Try the amount dressing guide knowledgeable.,Present
+304,PresPosNeutral,304,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,What is the best.,The best part is the owners.,Present
+305,PastPosSingular,305,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I ordered the best job.,Went in for lunch and it was great.,Past
+306,PastNegPlural,306,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,There were no other tables.,Waited 11 minutes to.,Past
+307,PastNegPlural,307,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Even though i am.,They also had the worst.,Past
+308,PresNegSingular,308,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food here is horrible.,The amount of those.,Present
+309,PresPosPlural,309,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This is one of my favorite restaurants.,Knowledgable knowledgable recommend.,Present
+310,PastNegPlural,310,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The meatballs were not good.,I wanted not worth it.,Past
+311,PastPosSingular,311,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I had a great experience here.,She said the food.,Past
+312,PresNegPlural,312,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,But they are closed.,They are not very good.,Present
+313,PastPosSingular,313,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Sorry served brown rice rice waste your time money.,One of the best i have had in the area.,Past
+314,PastPosNeutral,314,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable recent working knowledgable knowledgable recommend fan kidding s next next week omelet omelet person recent desk boyfriend boyfriend boyfriend.,This was a great place to go to go to go.,Past
+315,PresPosNeutral,315,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Their burgers are closed.,They are always willing to help me.,Present
+316,PresPosSingular,316,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their burgers are closed patient packed.,"For the price , this place is great.",Present
+317,PresPosSingular,317,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Annie here.,But it ' s worth it.,Present
+318,PresNegPlural,318,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The prices are not good.,The amount are closed.,Present
+319,PresPosPlural,319,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The food.,We love coming here.,Present
+320,PastPosSingular,320,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"All the food , the service was great.","Knowledgable , it was packed.",Past
+321,PresNegNeutral,321,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,That ' s not worth the drive.,But thank you are closed.,Present
+322,PresPosPlural,322,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained maintained sorry served ; needless mention looks believe  nothing recent recent recent recent recent recent recent recent.,The people here are very nice and helpful.,Present
+323,PastNegPlural,323,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,But it was not good.,We were both disappointed.,Past
+324,PresPosSingular,324,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Well maintained maintained served served served served simple  informative patient lot , onions , onions.",The jalapeo and sour soup is amazing.,Present
+325,PastPosNeutral,325,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The beans were fresh and delicious.,"Informative , onions , it.",Past
+326,PresNegSingular,326,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,And the staff is very rude.,But i am not worth it.,Present
+327,PresNegSingular,327,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Very good.,This is a shame.,Present
+328,PresPosSingular,328,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable recommend that ' s is awesome.,Everything on the menu is delicious.,Present
+329,PastPosPlural,329,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We were both pleasantly surprised.,The amount were absolutely.,Past
+330,PastPosPlural,330,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,She started.,They did a great job.,Past
+331,PresPosPlural,331,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My nails look amazing.,A great job.,Present
+332,PastNegPlural,332,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We were not impressed.,There were 11.,Past
+333,PresPosNeutral,333,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable and it.,We always get our family here.,Present
+334,PastPosPlural,334,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Sorry sorry sorry  sorry served ; mention bartender  informative patient bartender knowledgeable who little , onions , onions.",Servers were very friendly and attentive.,Past
+335,PastPosNeutral,335,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,She started.,My family loved it.,Past
+336,PastPosPlural,336,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Our servers were very nice and helpful.,They were doing completely polite  nothing j ' s meal was packed.,Past
+337,PresPosPlural,337,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers are great.,Thanks to all you guys are so happy.,Present
+338,PresPosPlural,338,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys are always friendly and helpful.,Well maintained maintained than average ) almost half of buffalo wings.,Present
+339,PastNegSingular,339,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was a little bit expensive.,My dog experience here.,Past
+340,PastPosPlural,340,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The amount of us.,The sides were delicious.,Past
+341,PastNegSingular,341,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The chicken was dry and flavorless.,Sorry packed sorry spinatos impressed leaves lot gets cold dated.,Past
+342,PastNegSingular,342,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This was the worst experience ever.,Needless needless the past were absolutely absolutely.,Past
+343,PastPosSingular,343,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The best i had in phoenix.,No one of those.,Past
+344,PresPosPlural,344,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We love the food here.,Some of the.,Present
+345,PastNegNeutral,345,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Tonight last visit were absolutely.,"So , we ordered the wrong meal.",Past
+346,PastPosSingular,346,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their burgers tasted salty lacked know how honest  nothing j ' s meal was packed.,It was a great experience with a friend.,Past
+347,PresNegPlural,347,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The prices are not too high.,Served papa j s next next omelet omelet recent wife boyfriend boyfriend boyfriend  ordered the amount of.,Present
+348,PresPosSingular,348,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I am always packed.,The food here is always good.,Present
+349,PresPosSingular,349,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This place is great.,Good food.,Present
+350,PresNegSingular,350,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,She gets the.,And the staff is rude.,Present
+351,PresNegPlural,351,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Well maintained than the best.,The prices are ridiculous.,Present
+352,PastPosPlural,352,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We also had the best wings in the area.,"Professional , onions onions , onions onions , onions cheese is pretty.",Past
+353,PastPosSingular,353,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,My dog was packed.,She did a great job on my hair.,Past
+354,PresPosPlural,354,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We love this place.,The best.,Present
+355,PastPosNeutral,355,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The waiter was very nice and helpful.,Knowledgable knowledgable recommend stars.,Past
+356,PastNegPlural,356,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We were not happy with the food.,There were incredibly cold.,Past
+357,PastPosPlural,357,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Informative , onions , onions , onions.",The nurses and helped me feel welcome.,Past
+358,PastNegPlural,358,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,No flavor.,They were not good.,Past
+359,PresNegSingular,359,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Decent makes do not waste your time.,I like the food is not good.,Present
+360,PastPosSingular,360,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Professional , onions onions onions steak leaves lot desk minute tour guide knowledgeable simple simple simple  nothing is pretty.",I had a great experience with this place.,Past
+361,PastPosNeutral,361,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,We also loved.,Got ta love the food.,Past
+362,PastPosPlural,362,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They were cooked perfectly and delicious.,"Packed sorry sorry served  sorry served ; mention bartender attentive  informative patient , onions , it is.",Past
+363,PresPosPlural,363,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,He is pretty good.,We always get our visitors here.,Present
+364,PastNegNeutral,364,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,What happened to be.,My friends and i got sick.,Past
+365,PastPosNeutral,365,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Overall , it was very good.",Fish was amazing.,Past
+366,PastNegSingular,366,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I did not know what i wanted to go.,Onions onions were awful cooked many patient 10 minute tour.,Past
+367,PresPosSingular,367,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I love the best.,Best thing i have ever had.,Present
+368,PastPosNeutral,368,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The food and drinks were great.,I could not finish.,Past
+369,PresPosPlural,369,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It is.,Love the guys.,Present
+370,PastPosPlural,370,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We enjoyed our meals.,The service.,Past
+371,PastPosPlural,371,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Was packed.,We loved the food.,Past
+372,PresNegNeutral,372,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,That is not good.,Food is.,Present
+373,PresPosPlural,373,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable recommend you are closed.,Lots of the best things i have ever had.,Present
+374,PresPosNeutral,374,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,They make me feel than.,The best part is the food is good.,Present
+375,PastPosSingular,375,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Loved the atmosphere.,Lame decent.,Past
+376,PastNegNeutral,376,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,Had to wait for a long time.,Lame and informative.,Past
+377,PastNegPlural,377,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Desserts were incredibly absolutely awful romantic  she started started started.,All the fried pickles were very bland.,Past
+378,PresPosNeutral,378,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,It ' s all great.,Are great.,Present
+379,PresNegNeutral,379,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,Do not waste your money.,But the food.,Present
+380,PresPosNeutral,380,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Excellent and enjoy.,All of the reviews are so good.,Present
+381,PresNegPlural,381,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This is not the worst.,You do not even.,Present
+382,PresPosPlural,382,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys have been great.,Thank you are.,Present
+383,PastPosPlural,383,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The sides were good.,We loved it.,Past
+384,PastPosPlural,384,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our waitresses recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Went here for lunch and had a great time.,Past
+385,PastPosPlural,385,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Sorry served brown rice seem husband husband husband s next favorite favorite s next next week omelet person takes are.,All of us had the best meals in the area.,Past
+386,PastPosPlural,386,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The first time i was not.,Best wings we had in charlotte.,Past
+387,PresNegNeutral,387,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,And the food is not good.,Their food is.,Present
+388,PresPosSingular,388,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It ' s a good thing about the price.,Their bagel sandwich is pretty much.,Present
+389,PresPosSingular,389,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their bagel sandwich is pretty good.,It ' s worth the drive to the strip.,Present
+390,PastPosSingular,390,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Veggie impressed.,My daughter loved the food.,Past
+391,PastNegSingular,391,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There were incredibly 14 minutes.,Did not know what i wanted to go.,Past
+392,PresPosSingular,392,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their bagel place.,This is a great place to go.,Present
+393,PastNegPlural,393,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were not.,There were no refills.,Past
+394,PastPosPlural,394,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Amazing , professional , onions , onions.",My friends and they were both amazing.,Past
+395,PastNegNeutral,395,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They were not very good.,We never returned.,Past
+396,PresPosSingular,396,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food here is delicious.,The best place.,Present
+397,PresPosNeutral,397,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Well maintained sorry served ;  informative patient s meal gets not worth it.,It ' s definitely worth the drive thru.,Present
+398,PastPosSingular,398,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Overall , it was a great experience.","Knowledgable , onions , it.",Past
+399,PastPosNeutral,399,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,They were very friendly and efficient.,Informative incredibly rude when we got a bit.,Past
+400,PresPosPlural,400,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,There are closed.,I love the biscuits and gravy.,Present
+401,PastPosNeutral,401,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Recommend the food.,My friends and i got the tacos.,Past
+402,PresPosPlural,402,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,But portions are great.,Been the best burgers in the valley.,Present
+403,PastPosPlural,403,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,She said it.,This was my favorite.,Past
+404,PastPosNeutral,404,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Loved the chips and salsa were good.,13 hours later ) almost half of the food.,Past
+405,PastNegPlural,405,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We had the worst meals in our life.,The table were really impressed.,Past
+406,PresPosPlural,406,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All of the reviews are very good.,The food was packed.,Present
+407,PresNegPlural,407,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Makes do not waste your time.,No one wants to help you.,Present
+408,PastNegNeutral,408,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,And the beans were not good.,The amount was packed.,Past
+409,PresPosSingular,409,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,So much.,The food is good.,Present
+410,PresPosSingular,410,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Food is good , service is good.","Great little , i am.",Present
+411,PresNegPlural,411,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,No one ever ever come here.,But nothing are closed super friendly sweet for lunch lunch.,Present
+412,PastNegPlural,412,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The fries were not good.,Were absolutely.,Past
+413,PastNegSingular,413,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,No idea waited 12 minutes for lunch lunch time.,So i went to this place for lunch.,Past
+414,PastNegSingular,414,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Veggie veggie burger.,My burger was dry and chewy.,Past
+415,PresPosSingular,415,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I love this place.,She gets.,Present
+416,PastNegSingular,416,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Sorry closed packed extra charge would have stopped stopped going to say.,My car was not ready to be cleaned.,Past
+417,PresPosPlural,417,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained maintained than enough denny s next next next omelet omelet omelet omelet recent boyfriend  second  sorry.,And they are always friendly and helpful.,Present
+418,PresNegNeutral,418,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Well maintained maintained than enough denny s meal next later  sorry served simple simple  nothing j ' s.,The chips and salsa are the worst.,Present
+419,PastNegPlural,419,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My fries were not good.,Not even finish.,Past
+420,PresPosNeutral,420,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,As far as i have ever been to.,The first time i am.,Present
+421,PastNegNeutral,421,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,All the staff was very rude.,There were really good.,Past
+422,PresPosSingular,422,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their bagel is awesome.,The food is fresh and delicious.,Present
+423,PastPosPlural,423,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All were very friendly and helpful.,The first time i am received.,Past
+424,PastPosPlural,424,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,We got a great.,They were both amazing.,Past
+425,PresNegPlural,425,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Well maintained maintained sorry served ; needless mention  informative s meal meal gets not even finish finish.,This place is not the worst.,Present
+426,PresPosPlural,426,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This is the best of the locals.,We have ever had.,Present
+427,PresPosSingular,427,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Overall , it ' s a great place to go.",Knowledgable knowledgable recommend manager patient s next next week favorite stores.,Present
+428,PastPosSingular,428,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable recent recent working knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,She was very patient and patient with me.,Past
+429,PresPosPlural,429,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,I am.,Thanks yelp.,Present
+430,PastNegSingular,430,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Tonight 11 minute tour guide guide knowledgeable.,The only thing i had was the food.,Past
+431,PastNegNeutral,431,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Their burgers are closed packed  decent.,The other people were very rude.,Past
+432,PresNegNeutral,432,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Well well maintained maintained than.,My nails is not worth the drive.,Present
+433,PresNegNeutral,433,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They have a horrible attitude.,Money money at this place.,Present
+434,PastNegPlural,434,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry after they were doing doing.,They did not even bother to make me.,Past
+435,PastPosSingular,435,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I would definitely recommend this place.,Knowledgable kidding s last wife boyfriend  second j ' s s meal meal not even finish finish.,Past
+436,PresPosNeutral,436,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Thanks r me.,But it.,Present
+437,PresPosPlural,437,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Thanks to all the girls who work here.,But they are closed impressed.,Present
+438,PastPosPlural,438,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,There were also very nice and helpful.,Interesting interesting and informative loved it.,Past
+439,PastNegSingular,439,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Lame stars.,No one greeted us.,Past
+440,PresPosSingular,440,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My favorite is the food is the best.,Knowledgable thank you are closed.,Present
+441,PresNegNeutral,441,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They charge me $ 10 for a drink.,Their bagel restaurant ' s next next trip.,Present
+442,PastNegSingular,442,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food was mediocre at best.,No dressing on the past.,Past
+443,PresPosSingular,443,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,You have a great time.,What ' s is.,Present
+444,PresPosPlural,444,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained.,These guys are my favorite.,Present
+445,PastNegSingular,445,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was a shame.,In my.,Past
+446,PastPosPlural,446,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We had a great time here.,Knowledgable day.,Past
+447,PastNegSingular,447,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,She said no one was there.,10 minutes to help.,Past
+448,PresPosPlural,448,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Great little , and it.",The soups are fresh and delicious.,Present
+449,PresPosPlural,449,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,These guys are great.,This place.,Present
+450,PresPosNeutral,450,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The food is delicious.,Thanks yelp.,Present
+451,PastPosNeutral,451,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,We had a.,This was great.,Past
+452,PresNegSingular,452,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,No one of the food.,"No one , i have ever had.",Present
+453,PastPosNeutral,453,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable knowledgable recent knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The guys who helped me out was very nice.,Past
+454,PastPosNeutral,454,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The best part was the food we had.,Informative and i loved.,Past
+455,PresNegNeutral,455,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,School school pleasant little.,The chicken wings are not good.,Present
+456,PresPosPlural,456,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We are very happy with the results.,She gets the best job.,Present
+457,PresNegSingular,457,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,No one knows how to make it.,10 mins later of the food.,Present
+458,PastNegPlural,458,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They forgot the chips and salsa.,The table were really good.,Past
+459,PastNegSingular,459,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It came out to be tossed.,Was not worth it.,Past
+460,PresNegPlural,460,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,For lunch lunch time.,The employees are rude.,Present
+461,PastPosPlural,461,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,I got a.,Thanks to yelp.,Past
+462,PastNegPlural,462,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The prices were not too high.,The service was amazing.,Past
+463,PastPosSingular,463,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,He was packed.,All the food was great.,Past
+464,PresPosSingular,464,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Well maintained maintained solid served ; mention bartender attentive  informative patient , onions , onions.",Everything i have tried is delicious.,Present
+465,PastNegSingular,465,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Somewhere else.,The staff was very rude.,Past
+466,PastPosNeutral,466,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,My friends and i loved the food.,The past was packed.,Past
+467,PresPosPlural,467,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Best wings i have ever had.,So many stores.,Present
+468,PresPosSingular,468,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It ' s fresh and delicious.,Love the place.,Present
+469,PastNegNeutral,469,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Tonight last visit ` ` ` ` ` ` ` ` ` ` `.,It was not worth the drive thru.,Past
+470,PastPosNeutral,470,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Excellent time.,Great place to stay here.,Past
+471,PresNegNeutral,471,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,I am sorry but they are not busy.,Knowledgable knowledgable recommend you are closed impressed packed.,Present
+472,PastNegSingular,472,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"Sorry else , onions onions , onions onions night.",And the food was mediocre at best.,Past
+473,PresNegPlural,473,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Their burgers are closed packed decent price kidding  sorry served ; recent recent recent recent recent recent recent recent.,They are rude and unhelpful.,Present
+474,PastNegNeutral,474,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Sorry they were completely doing half crap.,Chips and salsa were very bland.,Past
+475,PresPosNeutral,475,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,I have always had a great experience.,"Professional , onions , onions , onions.",Present
+476,PresPosSingular,476,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food and service is always good.,Sorry makes do not waste your time.,Present
+477,PresPosNeutral,477,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,It was packed.,I highly recommend them.,Present
+478,PresNegSingular,478,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The staff here is very rude.,Also served brown rice to say.,Present
+479,PresNegNeutral,479,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The employees are not even pushy.,But portions are closed super friendly sweet for lunch lunch time.,Present
+480,PastNegNeutral,480,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Were incredibly rude.,Chips and salsa were cold.,Past
+481,PastPosNeutral,481,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Excellent and informative.,The people working here were great.,Past
+482,PastPosSingular,482,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Meal was packed.,Everything was delicious.,Past
+483,PresPosSingular,483,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"For the price , the food is good.",Everything is pretty good.,Present
+484,PastNegNeutral,484,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,For lunch lunch.,Then they got me wrong.,Past
+485,PastNegSingular,485,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,I would have ever had.,The front desk was very rude.,Past
+486,PastNegPlural,486,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,The door.,There were no one.,Past
+487,PresNegSingular,487,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food here is not good.,She is not worth it.,Present
+488,PresPosSingular,488,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My family loves this place.,It ' s worth it.,Present
+489,PresNegSingular,489,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Been back.,It is not worth it.,Present
+490,PastNegSingular,490,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,The food was not.,This was a waste of time.,Past
+491,PresPosNeutral,491,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,I absolutely love this place.,Great of the food.,Present
+492,PastNegNeutral,492,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Onions were awful romantic lacked maybe any paper favorite s next next week omelet omelet person fat tuesday ' s.,Although the beans were not good.,Past
+493,PresPosSingular,493,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,But i am always been.,The fried chicken is also good.,Present
+494,PastPosPlural,494,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,When we got our food we got to go back.,Knowledgable knowledgable knowledgable recommend that ' s meal was packed.,Past
+495,PastPosNeutral,495,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Was very good.,So i am.,Past
+496,PastPosPlural,496,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Loved the flowers.,We got the.,Past
+497,PastNegNeutral,497,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,When we got our food was not good.,Sorry sorry makes looking looking something recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Past
+498,PastNegPlural,498,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They were very rude.,Going to say.,Past
+499,PastPosNeutral,499,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We had the reuben and it was delicious.,Knowledgable knowledgable knowledgable recommend tour guide.,Past
+500,PastNegNeutral,500,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The other yelpers were very good.,Past
+501,PastNegPlural,501,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were incredibly.,Then they were not helpful.,Past
+502,PastPosNeutral,502,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,No idea was packed.,We had a great experience here.,Past
+503,PastNegSingular,503,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Worst experience i have had.,10 minute tour guide.,Past
+504,PastNegNeutral,504,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,For lunch.,That was not good.,Past
+505,PastNegNeutral,505,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Knowledgable mention knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,When we got the food was not good.,Past
+506,PastNegPlural,506,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They were chewy and stale.,The first time was.,Past
+507,PresPosNeutral,507,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Professional , onions onions onions after school.",The best part of the food is the best.,Present
+508,PastPosSingular,508,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This was a great place to go for lunch.,She gets gets knowledgeable maintained engaging school.,Past
+509,PastNegPlural,509,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The sides were not good.,Needless the past.,Past
+510,PastNegSingular,510,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,And the waiter was very rude.,The food was not good.,Past
+511,PresPosPlural,511,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained maintained than average ).,My nails are always fresh and delicious.,Present
+512,PastPosNeutral,512,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable knowledgable recommend fan kidding me feel go back.,We had the reuben and it was delicious.,Past
+513,PastPosPlural,513,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers waitresses seem.,Very clean and they were very nice.,Past
+514,PastPosSingular,514,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I loved it.,I enjoyed the food.,Past
+515,PastNegPlural,515,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They were completely doing completely kidding  quick last mention last visit.,They were not even close to the room.,Past
+516,PastPosPlural,516,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They got me right away.,She was packed.,Past
+517,PresNegPlural,517,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,What happened to find.,These guys are clueless.,Present
+518,PastPosSingular,518,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This was my first visit to visit.,Our last visit here.,Past
+519,PastPosPlural,519,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They also were very friendly and helpful.,I am going to say find pittsburgh office has stopped stopped going going to mention mention table guide knowledgeable j.,Past
+520,PastNegPlural,520,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The fries were cold.,No outside.,Past
+521,PastPosPlural,521,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This was my favorite place to eat.,"Knowledgable lunch , onions.",Past
+522,PresNegPlural,522,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Is not.,No thank you.,Present
+523,PastNegPlural,523,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The bathrooms were disgusting.,There were not worth it.,Past
+524,PastPosNeutral,524,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Tonight , onions , onions.",One of the best i had in charlotte.,Past
+525,PresPosSingular,525,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable knowledgable tour.,I am very pleased with the service.,Present
+526,PresNegPlural,526,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,Prices are ridiculous.,There is awesome.,Present
+527,PresPosSingular,527,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Annie is great.,It is always fresh and hot.,Present
+528,PresPosNeutral,528,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,No new.,Thank you.,Present
+529,PastPosSingular,529,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She said it gets.,I thought the food was good.,Past
+530,PresNegNeutral,530,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,What happened to help.,This is not the same thing.,Present
+531,PastNegPlural,531,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were really impressed.,All the employees were very rude.,Past
+532,PresNegNeutral,532,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,"Informative , it.",They are not the greatest.,Present
+533,PastNegPlural,533,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,It was not worth it.,They were chewy and chewy.,Past
+534,PastPosNeutral,534,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The best part of the locals we ate here.,"Lame onions onions onions  sorry served leaves served served simple  informative patient , onions , onions , it.",Past
+535,PastNegPlural,535,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They did not even bother.,I was not worth it.,Past
+536,PresPosPlural,536,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All of them are always great.,There are great.,Present
+537,PastPosPlural,537,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The menu.,Loved this place.,Past
+538,PresPosPlural,538,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers are great job.,"Great prices , they have great prices.",Present
+539,PresNegPlural,539,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The fries are not good.,They gave me feel.,Present
+540,PastNegPlural,540,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Nothing were doing.,They also had no problem.,Past
+541,PresNegSingular,541,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But maybe is not worth it.,"I have to say , i am sorry.",Present
+542,PastNegSingular,542,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food itself was not good.,There were 10 minutes.,Past
+543,PresNegNeutral,543,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Served served served simple simple simple simple simple simple  nothing is pretty much.,They have no idea about the food.,Present
+544,PastNegNeutral,544,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,All the food was pretty bland.,Onions were absolutely ridiculous.,Past
+545,PastNegSingular,545,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Sitting 10 minute tour.,And the chicken was not good.,Past
+546,PresNegNeutral,546,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,We will be.,My food is not good.,Present
+547,PresPosPlural,547,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We recommend this place.,Great dining.,Present
+548,PastNegNeutral,548,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,"Lame well maintained maintained knowledgeable sorry packed sorry  sorry served ; mention bartender attentive  informative patient , onions.",But they were not even that busy.,Past
+549,PastNegPlural,549,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were incredibly.,They did not even apologize.,Past
+550,PastPosSingular,550,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This place was great.,Oh the best.,Past
+551,PresNegSingular,551,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food itself is not good.,But nothing is not worth it.,Present
+552,PresPosPlural,552,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My kids love coming here.,What happened.,Present
+553,PresPosPlural,553,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My favorite and the kids are the best.,But portions are super friendly.,Present
+554,PresPosPlural,554,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers are closed packed decent knowledgable  knowledgable recommend tour guide knowledgeable.,As far as airports as they are concerned.,Present
+555,PastPosNeutral,555,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Been to help.,Both were delicious.,Past
+556,PastPosSingular,556,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The staff was very friendly and helpful.,She gets gets served ; mention last mention last second  last second visit.,Past
+557,PastNegNeutral,557,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,My experience was not even worse.,Sorry served brown rice days reviews bottom bottom negative honest  nothing j ' s s meal not worth it.,Past
+558,PresNegNeutral,558,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,No one of the.,I really hate this place.,Present
+559,PresPosSingular,559,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The place.,This place is great.,Present
+560,PastNegNeutral,560,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,So we did not have a reservation.,Last onions onions onions onions onions omelet used know  ordered a bit.,Past
+561,PastNegNeutral,561,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,No pasta was.,That was not that bad.,Past
+562,PresPosNeutral,562,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,I love the selection of beers.,Recommend the best.,Present
+563,PresPosSingular,563,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Love it.,It ' s.,Present
+564,PresNegPlural,564,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Katsu potatoes were absolutely ridiculous.,This is not the same issue.,Present
+565,PastNegPlural,565,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,My dog.,We had no wait.,Past
+566,PastPosSingular,566,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Great service and the food was great.,Their prices are super friendly.,Past
+567,PastPosPlural,567,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Loved the flowers.,I got the.,Past
+568,PresPosPlural,568,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Prices are good and they are very friendly.,Present
+569,PastPosSingular,569,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I really enjoyed this place.,I loved received.,Past
+570,PresPosPlural,570,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Amazing , tasty.",The garlic knots are amazing.,Present
+571,PastPosPlural,571,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This was a great little to the locals.,They were completely doing half of the food.,Past
+572,PastPosPlural,572,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,We had.,Loved it.,Past
+573,PresPosPlural,573,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Thanks sierra.,A bit.,Present
+574,PastPosNeutral,574,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We were very pleased with the service.,They were doing completely doing half crap.,Past
+575,PresNegSingular,575,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,I have ever been to.,It is not worth the money.,Present
+576,PastPosPlural,576,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We were definitely coming back.,Very impressed and tasty.,Past
+577,PastPosSingular,577,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She said the best.,Best meal i had in charlotte.,Past
+578,PastNegPlural,578,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This was not the best.,The menu were.,Past
+579,PresPosPlural,579,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Thank you guys.,No one.,Present
+580,PresPosPlural,580,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,So happy.,The guys are great.,Present
+581,PastNegNeutral,581,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This place was not even worse.,She said they were doing half.,Past
+582,PastPosSingular,582,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything was so good.,I was packed.,Past
+583,PresPosPlural,583,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The chips and salsa are very good.,It gets has been back.,Present
+584,PresPosSingular,584,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I love this place.,I am definitely coming back.,Present
+585,PresNegPlural,585,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They are closed closed impressed lucky knowledgable boyfriend  she gets maintained than idea negative.,This is not the same people.,Present
+586,PastNegPlural,586,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,The door were really impressed.,The fried zucchini were very bland.,Past
+587,PresPosNeutral,587,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable served day ; recent working.,It ' s a great place to take friends.,Present
+588,PastPosSingular,588,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food and service were excellent.,Knowledgable recommend stars.,Past
+589,PresPosSingular,589,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Well maintained maintained than enough denny s next next next omelet week omelet omelet person recent desk boyfriend boyfriend boyfriend.,Thank you for making a great experience.,Present
+590,PastNegSingular,590,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This one was a disaster.,Sorry spinatos.,Past
+591,PresPosPlural,591,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,She are closed.,These guys are my favorite.,Present
+592,PresPosNeutral,592,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The best part of the locals is the best.,Well maintained maintained knowledgable knowledgable kidding recent recent  recent recent recent recent recent recent recent recent recent recent recent.,Present
+593,PresNegPlural,593,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,No pasta are closed.,There are many choices.,Present
+594,PastPosPlural,594,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys were very friendly and helpful.,Sorry served brown rice almost waste waste your time money at this point point.,Past
+595,PastPosPlural,595,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They had a great time.,Sorry packed.,Past
+596,PastNegSingular,596,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place was not worth it.,14 mins of the food.,Past
+597,PresPosSingular,597,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Their bagel.,This place is awesome.,Present
+598,PresPosPlural,598,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Annie is the best.,The fried zucchini are delicious.,Present
+599,PastNegSingular,599,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I was so disappointed.,11 minutes to.,Past
+600,PresNegNeutral,600,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Too sweet.,This is ridiculous.,Present
+601,PastPosPlural,601,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable knowledgable recommend.,The nurses who helped me feel welcome.,Past
+602,PresPosPlural,602,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,It ' s definitely worth the drive thru.,"Knowledgable , but it ' s is awesome.",Present
+603,PastPosNeutral,603,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,This was my first visit.,So many little.,Past
+604,PastNegPlural,604,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Were very impressed.,The servers were very slow.,Past
+605,PastNegSingular,605,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,And the service was terrible.,But nothing was packed.,Past
+606,PastNegSingular,606,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was very bland and lacked flavor.,Our last onions onions onions onions onions bowl steak husband leaves lot were completely huge decent price.,Past
+607,PastNegSingular,607,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,There was no apology and no apology.,Sorry served brown rice seem husband husband favorite s next next week omelet person takes takes badly make sure desk.,Past
+608,PastPosPlural,608,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,This location.,The flautas were good.,Past
+609,PastPosPlural,609,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They were delicious.,I got a bit.,Past
+610,PastPosPlural,610,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Knowledgable lunch , i am.",They did a great job on my nails.,Past
+611,PastPosPlural,611,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out.,Best thing we had in vegas.,Past
+612,PastPosNeutral,612,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Loved the food we had.,Were great job.,Past
+613,PresPosSingular,613,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This is the best place in charlotte.,Knowledgable recommend that ' s meal was packed.,Present
+614,PastNegNeutral,614,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Needless to say the food.,The crab puffs were not good.,Past
+615,PresNegPlural,615,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,So we are not going back.,They gave me feel go back.,Present
+616,PastNegSingular,616,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,First time i am.,But it was not worth it.,Past
+617,PastPosPlural,617,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of wings wings and enjoy.,The nurses were very nice and helpful.,Past
+618,PastNegPlural,618,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,No flavor idea.,They were not helpful.,Past
+619,PresNegNeutral,619,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The people are in the area.,Well well maintained.,Present
+620,PastNegPlural,620,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry they were completely doing half mention yelp bartenders guys guys whole minute wife boyfriend boyfriend ordered veal thought it.,The employees were not even that nice.,Past
+621,PastNegPlural,621,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We did not know what they were doing.,"However , onions onions , onions onions , onions onions , onions , onions.",Past
+622,PresNegNeutral,622,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,I doubt we will be back.,What you are.,Present
+623,PresPosPlural,623,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,But it is delicious.,The daily specials are also good.,Present
+624,PastNegPlural,624,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The beans were not good.,I could not even.,Past
+625,PresPosPlural,625,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable recommend that ' s.,The servers are very nice and helpful.,Present
+626,PastPosNeutral,626,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Overall , we were pleased with the food.",Needless say recommend brought no stars flavor regular stars your time money at this point.,Past
+627,PresNegSingular,627,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It is not good.,But i am.,Present
+628,PresPosNeutral,628,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,They were completely doing.,I am very pleased with the results.,Present
+629,PastNegSingular,629,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,No one ever came back to make it.,She told told ordered the first time.,Past
+630,PastPosPlural,630,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,And i loved.,They were very good.,Past
+631,PastPosNeutral,631,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Polite managers.,Loved the chips and salsa.,Past
+632,PastPosNeutral,632,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Both were great and the food was great.,"Professional , onions onions , onions onions steak ' s next favorite trip.",Past
+633,PresPosSingular,633,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,But portions portions are super friendly friendly minutes minutes for lunch lunch lunch time i am.,"For a great price , the food is good.",Present
+634,PresPosPlural,634,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We love coming here.,Is great.,Present
+635,PastPosPlural,635,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They were great.,The past.,Past
+636,PresPosSingular,636,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Well much.,The food is great.,Present
+637,PastNegSingular,637,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,No dressing flavor tiny must eat outstanding and decent.,The front desk staff was very rude.,Past
+638,PastPosPlural,638,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,We were seated and the food was delicious.,Past
+639,PastPosSingular,639,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I will be back.,The food here was great.,Past
+640,PastNegNeutral,640,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Our food came out of wings wings wings and enjoy.,All of us were very disappointed.,Past
+641,PastNegSingular,641,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,But the food was not good.,"Sorry , i will be.",Past
+642,PastNegSingular,642,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was not good.,My dog.,Past
+643,PastPosNeutral,643,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Overall , we had a great experience.","Knowledgable , onions , onions , it.",Past
+644,PresPosNeutral,644,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,I always get my nails done.,"Also , the best.",Present
+645,PastNegNeutral,645,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They were not even apologetic.,Veggie waitresses ) were doing.,Past
+646,PresPosPlural,646,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,What happened to say.,My friends and i love coming here.,Present
+647,PastPosNeutral,647,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable knowledgable recommend their burgers are closed patient lucky fantastic day s meal next next atmosphere  informative patient 14.,They also had a great selection of beers.,Past
+648,PastPosSingular,648,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The door was packed.,Overall it was a good experience.,Past
+649,PastNegSingular,649,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Awful here.,I was not impressed.,Past
+650,PresPosPlural,650,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are always so friendly and helpful.,Well maintained maintained than average.,Present
+651,PastNegPlural,651,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They were doing half crap.,They got the wrong order wrong.,Past
+652,PresNegSingular,652,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Food is mediocre.,That much.,Present
+653,PresNegPlural,653,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,Drinks are not good.,Their drinks.,Present
+654,PresPosNeutral,654,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The kids and staff are always friendly.,Knowledgable knowledgable knowledgable recommend you kidding me feel dog feel started started started guide knowledgeable.,Present
+655,PastNegSingular,655,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place was a disaster.,My dog experience.,Past
+656,PresPosSingular,656,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,But i love this place.,Best in the.,Present
+657,PastPosPlural,657,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Sorry much better.,Great people who work here.,Past
+658,PastNegPlural,658,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,11 mins of us.,Both were very bland.,Past
+659,PastPosNeutral,659,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Both were good and the food was great.,Informative maintained sorry served  sorry served served.,Past
+660,PresPosPlural,660,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are all so good.,Thank you.,Present
+661,PastNegPlural,661,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We had the worst experience here.,The amount were really good.,Past
+662,PastPosPlural,662,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of wings wings.,Both were very friendly and helpful.,Past
+663,PastPosSingular,663,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Had a great job.,It was a good experience.,Past
+664,PastPosSingular,664,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Tonight last visit visit.,I had a great time with the service.,Past
+665,PastPosPlural,665,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Served knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,All the girls were very nice and helpful.,Past
+666,PastPosPlural,666,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Served getting day.,So glad we found this place.,Past
+667,PastPosSingular,667,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets on the past area.,The staff was very nice and helpful.,Past
+668,PastNegPlural,668,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry just not worth it.,The employees were very rude.,Past
+669,PastNegPlural,669,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They also got the wrong order.,There were very impressed.,Past
+670,PastPosPlural,670,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Pleasant informative , onions.",One of the best we had in the area.,Past
+671,PastPosNeutral,671,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Took a couple of friends and loved it.,"Knowledgable knowledgable , onions , onions , onions.",Past
+672,PastPosSingular,672,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This was a great place to stay.,Great for our food.,Past
+673,PastPosNeutral,673,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,That was amazing.,More than.,Past
+674,PresNegNeutral,674,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,No one comes to the counter.,Sandwiches are closed.,Present
+675,PastPosSingular,675,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She said well maintained.,It was a good thing about the food.,Past
+676,PresNegPlural,676,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They are.,This is not good.,Present
+677,PresPosNeutral,677,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,And they have a great job.,It ' s amazing.,Present
+678,PastNegSingular,678,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,So i did not know what i was doing.,Awful extra charge atmosphere lacked were absolutely ridiculous.,Past
+679,PastNegSingular,679,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,My first visit was so disappointed.,Our food came out of wings wings wings who manager managers managers.,Past
+680,PastPosSingular,680,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,She helped me out the perfect fit.,The service was packed.,Past
+681,PresNegSingular,681,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Bob is no.,This is horrible.,Present
+682,PresPosNeutral,682,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"Needless to say , i love this place.",Fast mcdonalds mcdonalds restaurants.,Present
+683,PastNegPlural,683,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They had no idea what they were doing.,They were completely completely kidding  quick days came out of wings wings wings who manager patient lot were quite.,Past
+684,PastPosNeutral,684,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,They were so good.,Real decent.,Past
+685,PresPosSingular,685,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I am a huge fan of their food.,Delicious delicious.,Present
+686,PastNegSingular,686,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This was a horrible experience.,But nothing was not worth it.,Past
+687,PastPosPlural,687,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My kids loved the meals.,The amount were.,Past
+688,PastPosSingular,688,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everyone was very friendly and helpful.,"She said informative , it was packed.",Past
+689,PastNegSingular,689,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,The service was.,So i went to this place.,Past
+690,PresNegNeutral,690,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,"Expensive ,.",This place has no stars.,Present
+691,PastNegSingular,691,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,But i got the wrong temperature.,I received received the valley.,Past
+692,PastPosPlural,692,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,We got a.,It was delicious.,Past
+693,PresPosPlural,693,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,There are really good.,All of their dishes are delicious.,Present
+694,PastNegNeutral,694,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They were not even busy.,I could not even.,Past
+695,PastPosNeutral,695,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,That was really good.,We had a great.,Past
+696,PastPosSingular,696,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable knowledgable recent working knowledgable mention knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent.,I was pleasantly surprised by this place.,Past
+697,PastPosPlural,697,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,She said.,Loved this place.,Past
+698,PastPosPlural,698,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Sorry professional , onions , onions onions , onions , onions.",My friends were happy with the results.,Past
+699,PastPosPlural,699,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,"Very friendly , we had a great time.","Knowledgable , onions , onions.",Past
+700,PresPosSingular,700,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The staff is friendly and helpful.,Well maintained than no stars.,Present
+701,PastPosSingular,701,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,So much.,I loved the food.,Past
+702,PresNegPlural,702,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,But nothing are closed packed.,The servers are very rude.,Present
+703,PastNegSingular,703,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Nothing came out of the food.,But it was not worth the price.,Past
+704,PastPosSingular,704,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Sorry , i am.",The service was great.,Past
+705,PresNegPlural,705,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Do not waste your.,They have been warned.,Present
+706,PresNegSingular,706,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,My food is terrible.,In the past.,Present
+707,PresNegPlural,707,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They are rude.,What ' s.,Present
+708,PresPosSingular,708,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Well maintained maintained packed sorry  sorry sorry served ; mention bartender attentive  informative patient , onions , onions.",The staff is very friendly and helpful.,Present
+709,PresNegSingular,709,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But i will be desired.,The staff is not friendly.,Present
+710,PastNegSingular,710,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Service was slow.,The  was.,Past
+711,PresPosPlural,711,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers are great.,The burgers are fresh and delicious.,Present
+712,PastNegNeutral,712,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,"So , we had no problem.",Their food came.,Past
+713,PastPosPlural,713,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Were great.,It were delicious.,Past
+714,PastPosNeutral,714,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Pleasant informative , it.",And the chips were fresh and salsa.,Past
+715,PresNegNeutral,715,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,That ' s not good.,Is pretty.,Present
+716,PastPosPlural,716,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Best wings we had in phoenix.,"Knowledgable , tasty.",Past
+717,PastPosPlural,717,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of wings wings.,Had a great experience with friends.,Past
+718,PresNegPlural,718,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The servers are not friendly.,But portions are closed impressed lucky knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+719,PresPosPlural,719,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were doing.,We love the salads and salads.,Present
+720,PastPosSingular,720,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I ordered the steak and it was delicious.,Oh salty onions mins later  sorry just right packed seem thought recommend brought brought recent recent wife boyfriend boyfriend.,Past
+721,PastNegPlural,721,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry they were doing.,They gave me the wrong ones.,Past
+722,PresNegNeutral,722,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,How much better than average.,No wonder they are in the area.,Present
+723,PastNegPlural,723,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We just walked out and walked away.,Sorry they were doing half crap.,Past
+724,PresNegPlural,724,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They do not even finish.,These guys are horrible.,Present
+725,PresPosNeutral,725,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"You will be back , thank you.",And you are great.,Present
+726,PastPosPlural,726,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All of us had a great time.,There are better.,Past
+727,PastPosPlural,727,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The wings were great.,She said say.,Past
+728,PastPosPlural,728,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We really enjoyed this place.,Tonight 14 minutes.,Past
+729,PastPosSingular,729,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable knowledgable recommend tour guide.,Had a great experience with this place.,Past
+730,PresNegSingular,730,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But you are closed.,I am sorry but i am sorry.,Present
+731,PresNegPlural,731,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,And they are not that good.,Their burgers are closed patient packed side 12 minute tour.,Present
+732,PresPosPlural,732,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,These guys are the best.,Their decent.,Present
+733,PresNegNeutral,733,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,Chips and salsa are not good.,But portions are better.,Present
+734,PresNegSingular,734,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The place is a total scam.,I have ever received.,Present
+735,PresPosSingular,735,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It ' s a great place to sit outside.,But it gets has stopped going to say.,Present
+736,PresPosSingular,736,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food here is great.,Been in town.,Present
+737,PastNegPlural,737,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Nothing was packed.,My nails were not painted.,Past
+738,PresPosNeutral,738,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Very impressed.,The kids love this place.,Present
+739,PastNegPlural,739,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Nothing were absolutely ridiculous.,We did not have any other customers.,Past
+740,PastPosNeutral,740,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All of them were great.,I got the food.,Past
+741,PastPosPlural,741,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The chips and salsa were delicious.,"Informative , onions , onions.",Past
+742,PastPosPlural,742,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our last waitresses recent recent boyfriend boyfriend  nothing came out of wings wings.,The best part of the reviews were great.,Past
+743,PastNegNeutral,743,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This was not that good.,For the amount.,Past
+744,PastPosPlural,744,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,"Needless to say , the food.",They also had some good specials.,Past
+745,PastPosPlural,745,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable recommend kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Got the wings and they were all very good.,Past
+746,PresNegPlural,746,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The prices are not cheap.,The worst thing have ever had.,Present
+747,PastNegPlural,747,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,The amount dressing was packed.,The servers were not even that bad.,Past
+748,PresPosPlural,748,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Your time.,Prices are good too.,Present
+749,PresPosPlural,749,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Lots of fun and the prices are reasonable.,"Expensive , onions you are closed impressed lucky knowledgable knowledgable recent recent recent recent recent recent recent recent recent recent.",Present
+750,PastPosPlural,750,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All we had were great.,The first time.,Past
+751,PresNegPlural,751,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Rude are closed.,That is not that good.,Present
+752,PastPosPlural,752,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of wings wings wings.,They were both very nice and helpful.,Past
+753,PresPosSingular,753,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I love this place.,Good luck.,Present
+754,PresNegPlural,754,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They are not good.,Makes me.,Present
+755,PresNegPlural,755,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,She gets served.,They are not friendly.,Present
+756,PresPosPlural,756,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are always so nice and helpful.,Knowledgable recommend.,Present
+757,PastPosNeutral,757,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We loved it.,A bit.,Past
+758,PastPosSingular,758,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Service was great.,Was great.,Past
+759,PresNegPlural,759,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My fries are not good.,So much to help.,Present
+760,PastPosPlural,760,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,It was a great experience.,There were doing.,Past
+761,PresNegPlural,761,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,We were doing.,Are you kidding me ?.,Present
+762,PastNegPlural,762,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Salty 10 minutes for our food.,We just walked out and walked out.,Past
+763,PastPosPlural,763,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Both dishes were fresh and delicious.,Our food came out of wings wings who.,Past
+764,PresNegNeutral,764,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This place is not good.,If you are.,Present
+765,PastPosPlural,765,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The fries were fresh and delicious.,Our food came out of the food.,Past
+766,PastNegSingular,766,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There almost 13 minutes.,She said it was not that good.,Past
+767,PastPosPlural,767,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Had a great time here.,I got a great.,Past
+768,PastPosNeutral,768,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable lunch.,They got ta try it right away.,Past
+769,PresPosPlural,769,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained maintained than average average.,This is the best groomers in the valley.,Present
+770,PresNegPlural,770,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,These guys are not pushy.,But they are closed packed.,Present
+771,PresPosSingular,771,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Best experience i have ever had.,But it is not worth it.,Present
+772,PastPosPlural,772,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The portions were huge and delicious.,"Knowledgable , onions , it was packed.",Past
+773,PresNegNeutral,773,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Been to sit.,My kids love this place.,Present
+774,PastNegPlural,774,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Needless needless say else mention sure desk desk started waste patient waste s next next next week neighborhood omelet omelet.,They never even apologized to make us.,Past
+775,PresPosPlural,775,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,When we have ever had.,Great place to take out of friends.,Present
+776,PresPosPlural,776,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The prices are reasonable.,So happy hour.,Present
+777,PresNegNeutral,777,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,But portions are better than average average ).,My kids and i am not kidding me.,Present
+778,PastPosSingular,778,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,They got ta love it.,I could not.,Past
+779,PastNegPlural,779,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,All the girls were very rude.,No dressing was packed.,Past
+780,PresPosPlural,780,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Do not good.,They do not disappoint.,Present
+781,PastPosPlural,781,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,All the nurses were very nice and helpful.,Knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Past
+782,PastPosNeutral,782,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,She started started started very impressed.,One of the best meals i had ever had.,Past
+783,PastNegSingular,783,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Was so much.,It was not worth it.,Past
+784,PresPosNeutral,784,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable knowledgable knowledgable recommend tour.,"Overall , they are always happy to do.",Present
+785,PastPosNeutral,785,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,They were completely doing half crap.,They were so happy with the outcome.,Past
+786,PastPosSingular,786,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Informative incredibly knowledgable recommend this place is awesome.,The waiter did a great job on our face.,Past
+787,PastNegSingular,787,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The waiter did not care about us.,Sorry served brown rice rice back.,Past
+788,PastNegPlural,788,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,My fries were cold.,There were.,Past
+789,PresPosSingular,789,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I always get a great job on my nails.,Knowledgable knowledgable knowledgable recommend tour guide knowledgeable.,Present
+790,PastNegNeutral,790,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Tonight the first time.,We had a horrible experience.,Past
+791,PresNegPlural,791,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,But nothing are super friendly.,The employees are so rude.,Present
+792,PastNegPlural,792,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They were doing half the food.,They did not have any compensation.,Past
+793,PastPosSingular,793,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Staff was friendly and helpful.,She said about it.,Past
+794,PastNegNeutral,794,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Even were incredibly.,They were not busy at all.,Past
+795,PastNegNeutral,795,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They also had the same issue.,Served brown rice to say.,Past
+796,PresPosPlural,796,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable knowledgable recommend you.,They have the best burgers in the valley.,Present
+797,PresPosPlural,797,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Some great.,That ' s my favorite.,Present
+798,PresPosPlural,798,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable knowledgable knowledgable kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,We have had the best burgers in the valley.,Present
+799,PresNegNeutral,799,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,Although the food is not good.,"Expensive , onions , onions.",Present
+800,PresPosSingular,800,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food is great.,And i am.,Present
+801,PastPosPlural,801,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came.,We had the best wings.,Past
+802,PastNegSingular,802,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food at the bar was not good.,My dog were absolutely ridiculous.,Past
+803,PresPosNeutral,803,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The girls and staff are always friendly.,Well maintained maintained maintained packed sorry sorry ; needless mention  sorry spinatos professional ; mention mention recent recent recent.,Present
+804,PastPosNeutral,804,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,We were very impressed.,The best part we had in the area.,Past
+805,PastNegNeutral,805,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Were absolutely awful romantic dog desk minute minute tour guide guide knowledgeable simple simple simple simple  nothing is pretty.,Would have been there last night.,Past
+806,PastPosNeutral,806,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Fish was packed.,Was very nice and helpful.,Past
+807,PresNegSingular,807,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place is the worst.,But i am going to.,Present
+808,PastNegSingular,808,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,"However , the food was not good.",There almost half of the food.,Past
+809,PresNegSingular,809,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food has been a few times.,Served served recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+810,PastPosNeutral,810,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Our valley valley.,The other reviews were great.,Past
+811,PastNegSingular,811,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was a waste of time.,I ordered the.,Past
+812,PresPosPlural,812,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It rather rather looks mention looks believe  nothing recent recent recent recent recent recent recent recent recent recent recent.,The servers are very friendly and helpful.,Present
+813,PastPosPlural,813,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,I ordered the best.,That was absolutely amazing.,Past
+814,PresNegPlural,814,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They are closed doing half crap.,"Also , the girls are rude.",Present
+815,PastPosPlural,815,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The restaurant was packed.,They were friendly and efficient.,Past
+816,PresPosPlural,816,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Their burgers are closed packed.,They are so happy to answer questions.,Present
+817,PastPosSingular,817,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She said it was packed.,Overall it was a great experience.,Past
+818,PresNegPlural,818,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,How much better.,There are no choices.,Present
+819,PresNegNeutral,819,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,No desserts seem sandwiches.,"I mean , they are not friendly.",Present
+820,PresNegSingular,820,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place is terrible.,I am not good.,Present
+821,PresNegSingular,821,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,11 minutes later i am sorry.,Sorry recommend this place is.,Present
+822,PastPosPlural,822,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They were all very nice and helpful.,Also served brown rice rice back.,Past
+823,PresNegSingular,823,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Is not good.,"No one , i am sorry.",Present
+824,PastNegSingular,824,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,But the service was horrible.,First time i got a bit.,Past
+825,PastNegPlural,825,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,We got the food.,That was not impressed.,Past
+826,PresPosNeutral,826,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,This is the best.,And enjoy.,Present
+827,PresNegSingular,827,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Everything else is horrible.,But portions are better than average.,Present
+828,PastPosNeutral,828,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,I wanted a bit.,All we had a great time.,Past
+829,PastNegSingular,829,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,So i went to this location.,No dressing on the.,Past
+830,PresPosPlural,830,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,These guys are awesome.,Great little.,Present
+831,PastNegNeutral,831,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,That was not.,Days ?.,Past
+832,PresPosNeutral,832,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Also served , onions , onions , onions.",My favorite is the ribs are the best.,Present
+833,PresPosPlural,833,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They have a great selection of beers.,They are closed impressed.,Present
+834,PresPosNeutral,834,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Excellent and the food.,The food and drinks are delicious.,Present
+835,PresNegNeutral,835,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,The amount of pizza.,They are not even the same.,Present
+836,PastNegPlural,836,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were great job.,They did not care about us.,Past
+837,PresPosPlural,837,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,And the owners are very nice and helpful.,Knowledgable knowledgable knowledgable recommend that ' s s meal meal not even finish.,Present
+838,PresPosPlural,838,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We highly recommend them.,Their burgers.,Present
+839,PastNegSingular,839,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I was expecting much better.,Almost long waited.,Past
+840,PresPosPlural,840,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Good school.,They are all so happy.,Present
+841,PastPosPlural,841,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of those.,Portions were huge and delicious.,Past
+842,PresPosPlural,842,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They make closed.,The best thing i have ever had.,Present
+843,PresPosPlural,843,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are all very happy with the results.,Well maintained maintained maintained served served served simple  informative patient definitely a bit.,Present
+844,PastPosSingular,844,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food was great.,No dressing.,Past
+845,PresNegSingular,845,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Do not even.,It is not that good.,Present
+846,PastPosSingular,846,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets served knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Very good service and the food was great.,Past
+847,PastPosNeutral,847,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Got the flautas and they were very good.,"Polite onions , onions onions onions steak leaves lot desk minute tour guide knowledgeable simple simple simple  nothing is.",Past
+848,PastPosNeutral,848,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,My friends and i got the food.,Oh salty and i am.,Past
+849,PastNegPlural,849,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,This was not good.,We were.,Past
+850,PastPosSingular,850,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Great and the food.,I really enjoyed the experience.,Past
+851,PresPosPlural,851,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It is prepared.,These guys have been great.,Present
+852,PastNegSingular,852,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,And the food was not good.,No stars to help.,Past
+853,PresPosPlural,853,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Best milkshakes ever.,Great job.,Present
+854,PresPosSingular,854,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This is a great place to go for lunch.,Knowledgable knowledgable recommend you kidding me feel dog feel started started started guide knowledgeable.,Present
+855,PresPosSingular,855,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I am a big fan of their food.,George is awesome.,Present
+856,PastNegPlural,856,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,10 minutes for our food.,The girls there were no help.,Past
+857,PresPosSingular,857,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I am a huge fan of this place.,But portions it ' s.,Present
+858,PresPosNeutral,858,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Prices are reasonable.,It is pretty.,Present
+859,PastPosPlural,859,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Pleasant and interesting.,We really enjoyed our stay here.,Past
+860,PastNegNeutral,860,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,My husbands ' s was not good.,Last visit ` ` ` ` ` ` `.,Past
+861,PresNegSingular,861,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place is a joke.,There is no.,Present
+862,PastPosPlural,862,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Very nice and they were able to help us.,Sorry served brown rice rice unleashed favorite stores before is pretty good.,Past
+863,PresPosPlural,863,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My favorite is the best.,Their prices.,Present
+864,PastPosPlural,864,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,And the fries were delicious.,They were completely.,Past
+865,PastNegSingular,865,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"Finally , we never.","So , the food was not good.",Past
+866,PastNegNeutral,866,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Well well.,That was disgusting.,Past
+867,PresNegPlural,867,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Knowledgable recommend the amount.,And the fries are not good.,Present
+868,PastNegPlural,868,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry else at the.,The food was disgusting.,Past
+869,PastNegSingular,869,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This was a numbernd time.,Lame i am going.,Past
+870,PresPosPlural,870,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This is the best.,It gets.,Present
+871,PastPosPlural,871,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The chips and salsa were good.,They were doing doing.,Past
+872,PastPosPlural,872,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Tonight knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Had a great time with friends and friends.,Past
+873,PresPosPlural,873,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The people are always friendly and helpful.,Knowledgable kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+874,PastPosPlural,874,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,My dog were great.,Loved the best we have had.,Past
+875,PresPosSingular,875,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything else is delicious.,It gets takes good.,Present
+876,PastPosPlural,876,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,This was my favorite restaurants.,The first time was packed.,Past
+877,PastNegSingular,877,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The chicken parm was not good.,She said they were doing.,Past
+878,PastPosSingular,878,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The amount dressing.,The food was fresh and delicious.,Past
+879,PastPosNeutral,879,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Sandwiches packed.,The crab cakes were delicious.,Past
+880,PastNegPlural,880,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were.,Both were not good.,Past
+881,PastPosPlural,881,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,But it gets.,The prices were good.,Past
+882,PresNegNeutral,882,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Well maintained maintained than enough denny s next next next week omelet omelet omelet person recent desk boyfriend boyfriend boyfriend.,"However , they are not kidding me.",Present
+883,PresPosSingular,883,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It ' s a great place to go.,Bob is awesome.,Present
+884,PastPosSingular,884,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,She was very patient and patient.,Knowledgable recent.,Past
+885,PresPosPlural,885,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The best time.,The soups are delicious.,Present
+886,PresNegSingular,886,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But portions are great.,Do not know how to make it.,Present
+887,PresNegSingular,887,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Katsu area.,I guess i am sorry.,Present
+888,PresPosPlural,888,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,The best.,Thanks sierra guys.,Present
+889,PresPosPlural,889,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,No stars.,This is my favorite.,Present
+890,PastPosSingular,890,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Crust came out of wings wings who.,I was very impressed with the service.,Past
+891,PresPosSingular,891,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,It is pretty good.,The fried rice is also good.,Present
+892,PastPosPlural,892,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We had the best wings in town.,Great for the customer.,Past
+893,PresPosPlural,893,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys are so nice and helpful.,Everything is great.,Present
+894,PastPosNeutral,894,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We were very impressed with the service.,Well maintained maintained maintained knowledgeable maintained sorry served needless  informative s meal gets not even finish finish.,Past
+895,PresNegSingular,895,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Well maintained maintained than enough denny s next next next omelet omelet omelet omelet omelet recent boyfriend boyfriend  nothing.,The food is mediocre at best.,Present
+896,PresPosSingular,896,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"For a great price , i am sure i am here.",Well maintained maintained served served ; recent  recent recent recent recent recent recent recent recent recent recent recent recent.,Present
+897,PresPosSingular,897,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Great as well well maintained.,Everything is fresh and delicious.,Present
+898,PastPosPlural,898,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Everything was packed.,We also had a great time here.,Past
+899,PresNegSingular,899,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,But the food is not good.,Do not waste your.,Present
+900,PastPosSingular,900,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It was amazing.,12 mins.,Past
+901,PastNegPlural,901,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,"When we left , we were disappointed.","Needless say , onions , onions , onions.",Past
+902,PresNegSingular,902,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,They charge $ 12 for a $ 12.,But there are better than average.,Present
+903,PastNegNeutral,903,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Sorry spinatos you.,They had a bad attitude.,Past
+904,PastPosNeutral,904,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Was so long.,The kids loved it.,Past
+905,PastPosSingular,905,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,No flavor.,It was delicious.,Past
+906,PastPosSingular,906,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,The price.,The food was good.,Past
+907,PresNegSingular,907,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,This place is.,The staff is very rude.,Present
+908,PastPosSingular,908,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything i ordered was delicious.,She said about the food.,Past
+909,PastPosPlural,909,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Were polite polite efficient ; mention managers  informative recent recent recent recent recent recent recent recent recent recent recent.,One of the best meals we had in the area.,Past
+910,PresNegNeutral,910,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,I agree with the chips and salsa.,Well maintained maintained than enough eat outstanding to say the best.,Present
+911,PastPosPlural,911,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were doing doing half crap.,The guys were very nice and helpful.,Past
+912,PresPosPlural,912,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Knowledgable recommend you are closed.,"As far as airports , they are concerned.",Present
+913,PresNegPlural,913,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They are not even better.,But portions are closed.,Present
+914,PastPosSingular,914,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,It tasted not worth it.,Everything was fresh and delicious.,Past
+915,PastPosSingular,915,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I got a great deal with the pedicure.,Recommend the first time i am.,Past
+916,PastNegNeutral,916,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,My expectations were not good.,Were doing half of the food.,Past
+917,PresPosSingular,917,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,It ' s great.,"Love it , and i love it.",Present
+918,PresNegSingular,918,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,In town.,But i am sorry.,Present
+919,PresNegSingular,919,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Knowledgable kidding recent working.,"But i am sorry , i am sorry.",Present
+920,PastNegNeutral,920,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,My friends got sick with me.,There was not worth it.,Past
+921,PastPosPlural,921,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,We really enjoyed our experience here.,Informative atmosphere and informative s meal.,Past
+922,PastPosSingular,922,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The best part was the food was good.,Fish sandwich was packed.,Past
+923,PresPosNeutral,923,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,The best part is the food is great.,But it ' s not worth it.,Present
+924,PresNegSingular,924,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Even though.,The food is not good.,Present
+925,PastPosNeutral,925,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,But maybe not worth it.,The other reviews were very good.,Past
+926,PresPosPlural,926,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,I have ever had.,We absolutely love this place.,Present
+927,PastNegPlural,927,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,Tables were not clean.,We were really.,Past
+928,PresPosPlural,928,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,A must.,It ' s all good.,Present
+929,PastNegSingular,929,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,13 minute tour guide knowledgeable.,There was no one was in the area.,Past
+930,PastPosSingular,930,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Oh and the food.,Everything was very good.,Past
+931,PresPosNeutral,931,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,That ' s a great place to go.,But it is prepared.,Present
+932,PastPosNeutral,932,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Informative incredibly informative s meal meal gets extremely knowledgeable knowledgeable j ' s s meal meal gets not even finish.,Got ta try the food and they were great.,Past
+933,PastNegSingular,933,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There almost 12.,The waiter was very rude.,Past
+934,PastPosSingular,934,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I had a great time here.,I had a great.,Past
+935,PastPosSingular,935,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Knowledgable recommend the past.,I really enjoyed the experience here.,Past
+936,PastNegNeutral,936,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They were very slow.,First time.,Past
+937,PresNegPlural,937,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,But portions apparently apparently recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The bathrooms are disgusting.,Present
+938,PresPosNeutral,938,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,No new owners.,This is always the best.,Present
+939,PastPosNeutral,939,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Expensive served knowledgable recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The chips were fresh and salsa were good.,Past
+940,PresNegSingular,940,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,Do not waste your time.,But it is not.,Present
+941,PastNegPlural,941,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They gave mention us minutes to help save mention believe  he completely kidding whole wife  oh every time.,The nurses said they were not helpful.,Past
+942,PastPosPlural,942,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The servers were great.,The restaurant.,Past
+943,PastPosPlural,943,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It was amazing.,And we had a great time.,Past
+944,PastNegSingular,944,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,He was not good.,This place was horrible.,Past
+945,PastPosPlural,945,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our food came out of those times.,We were very pleased with our meals.,Past
+946,PastNegPlural,946,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,If we were there were not even better.,Were flavorful packed decent company packed local  sorry served sorry served leaves served  informative patient recent recent working.,Past
+947,PastNegSingular,947,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,I got sick and i was disappointed.,"Tonight informative , onions , onions , onions.",Past
+948,PastPosPlural,948,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were completely doing half.,They were very friendly and helpful.,Past
+949,PastNegNeutral,949,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Potatoes served with the menu were great.,They took forever to get my car.,Past
+950,PresNegNeutral,950,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,But portions are better than average ).,Do not know what you want to go.,Present
+951,PastNegPlural,951,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Needless the first time i am.,We were not happy with this place.,Past
+952,PastNegPlural,952,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry sorry served brown rice rice back.,The chips and salsa were very bland.,Past
+953,PresPosPlural,953,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The best thing about the menu is the best.,Well maintained maintained maintained than average average best denny denny s next next omelet week omelet person takes recent desk.,Present
+954,PresNegPlural,954,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They are closed packed.,Rooms are old and dirty.,Present
+955,PresPosSingular,955,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My food is always good.,The homemade.,Present
+956,PastPosSingular,956,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,My dog.,Loved the food.,Past
+957,PastPosSingular,957,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This place was packed with a lot of fun.,Thought onions onions  sorry sorry served  sorry served  informative patient leaves lot were great job.,Past
+958,PresPosNeutral,958,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,"For starters , the food is always good.","Well maintained maintained served served simple  informative patient , it ' s.",Present
+959,PastNegSingular,959,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,And the manager was very rude.,For lunch 11 minute tour.,Past
+960,PresPosNeutral,960,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,It gets not worth it.,The guys have always been great.,Present
+961,PastPosPlural,961,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,There were a few blocks in the area.,Knowledgable day and informative.,Past
+962,PastPosSingular,962,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food and service were great.,She said about the.,Past
+963,PastNegPlural,963,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,We were not impressed with the food.,Recommend recommend brought sure desk desk desk desk.,Past
+964,PastPosNeutral,964,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,They also did a great job.,I wanted to say.,Past
+965,PresNegPlural,965,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,The fries are disgusting.,There are closed packed.,Present
+966,PresNegSingular,966,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It is disgusting.,No one of.,Present
+967,PastPosSingular,967,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I had a great time.,Thought it.,Past
+968,PresNegSingular,968,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Well maintained maintained sorry served  sorry served served  informative patient recent recent recent recent recent recent recent recent.,This place is a complete joke.,Present
+969,PresNegNeutral,969,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Expensive you are closed.,I do not recommend this place.,Present
+970,PresNegSingular,970,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,But the service is terrible.,"Informative , onions , onions , it.",Present
+971,PastPosPlural,971,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Thanks to yelp.,Sorry ?.,Past
+972,PastPosSingular,972,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,I loved this place.,I received.,Past
+973,PastPosPlural,973,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,One of the best things we had in the area.,Tonight informative managers professional needless makes mention recent recent recent recent recent recent recent recent recent recent recent recent recent.,Past
+974,PastPosPlural,974,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Informative and informative.,The fried zucchini were delicious.,Past
+975,PresNegNeutral,975,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,There is.,It ' s ridiculous.,Present
+976,PresNegSingular,976,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,There has a.,This place is a scam.,Present
+977,PastNegSingular,977,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Sorry else came out of the past.,I had a horrible experience here.,Past
+978,PastPosNeutral,978,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Loved the food and the drinks were great.,Knowledgable knowledgable recent working knowledgable knowledgable recommend fan kidding s meal was packed packed bland knowledgeable extra charge recent recent.,Past
+979,PresPosSingular,979,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Everything else is always fresh.,No one of those times.,Present
+980,PresNegSingular,980,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But i have ever had.,It is not worth the drive.,Present
+981,PastPosSingular,981,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Meal waited kidding  she said gets its 14 minute tour.,"Great service , and the food was great.",Past
+982,PresNegNeutral,982,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They have a new car wash.,"Well , it ' s.",Present
+983,PresPosPlural,983,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The best thing we have ever had.,Well much better.,Present
+984,PastNegPlural,984,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Needless to say the customer.,Did not know what they were doing.,Past
+985,PresPosPlural,985,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My nails look amazing.,Been there.,Present
+986,PresPosNeutral,986,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,You have a great selection of wines.,"Knowledgable , professional , it ' s.",Present
+987,PastPosPlural,987,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our valley server desk desk boyfriend boyfriend  nothing came out of wings wings and enjoy.,All they were all very nice and helpful.,Past
+988,PastNegPlural,988,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They gave me.,That was not too bad.,Past
+989,PresNegNeutral,989,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The food is not good either.,The amount of buffalo.,Present
+990,PastPosNeutral,990,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Last over rice.,The kids loved the food.,Past
+991,PastPosPlural,991,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys were great.,Our valley.,Past
+992,PresNegSingular,992,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place is a total scam.,Their prices are closed.,Present
+993,PastPosPlural,993,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,My friends and they were both delicious.,Served brown rice seem recent wife boyfriend boyfriend  nothing came out of the food.,Past
+994,PresPosPlural,994,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,Hands down the best places to eat here.,Knowledgable recommend that ' s meal.,Present
+995,PastNegSingular,995,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Sorry just right.,No one greeted us at all.,Past
+996,PresPosPlural,996,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,They are amazing.,A great.,Present
+997,PastPosPlural,997,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The guys were great.,10 mins of.,Past
+998,PresPosPlural,998,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,What ' s.,We love this place.,Present
+999,PastPosNeutral,999,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Was so much fun.,"Well , it.",Past
+1000,PastPosPlural,1000,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Great for another.,All of them were very good.,Past
+1001,PastNegSingular,1001,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was a 13 minute wait.,Awful no stars.,Past
+1002,PastPosSingular,1002,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,She gets served served recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,"Great service , i had a great experience.",Past
+1003,PresPosNeutral,1003,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive, is great.,It ' s always good.,Present
+1004,PresPosNeutral,1004,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Their prices are great.,They are always happy to help me.,Present
+1005,PresPosNeutral,1005,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,Thank you for being over the years.,Knowledgable kidding me ?.,Present
+1006,PresNegSingular,1006,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,But i am not.,Worst i have ever had.,Present
+1007,PresNegNeutral,1007,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,Well maintained maintained than enough eat outstanding renovated rooms smell j ' s s meal meal meal gets not even.,"I mean , they are not even better.",Present
+1008,PastNegSingular,1008,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was a disaster.,10 minutes.,Past
+1009,PastNegNeutral,1009,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,But they lost my appetite.,But nothing took us.,Past
+1010,PresPosSingular,1010,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I highly recommend.,This is a great place to eat.,Present
+1011,PastPosNeutral,1011,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All of us were happy with the meal.,Salty they gave us me change.,Past
+1012,PastNegSingular,1012,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was disgusting.,His soda.,Past
+1013,PastPosSingular,1013,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,"Overall , the food was good.",She gets the best.,Past
+1014,PastPosPlural,1014,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They were doing half.,"So far , we had a great time.",Past
+1015,PresNegNeutral,1015,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This is not acceptable.,Service is.,Present
+1016,PastNegPlural,1016,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Sorry sorry served spinatos you get our food.,We were not even that we were there.,Past
+1017,PresPosSingular,1017,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,This place is a hidden gem.,Always unleashed.,Present
+1018,PresPosPlural,1018,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Well maintained maintained.,They have a great selection of wines.,Present
+1019,PresPosSingular,1019,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Some of the food.,Best pizza i have ever had.,Present
+1020,PastPosSingular,1020,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,"Sorry , onions , onions.","Overall , it was a good experience.",Past
+1021,PastPosPlural,1021,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They gave get our food.,The chips and salsa were great.,Past
+1022,PresNegSingular,1022,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It ' s not good.,No pasta.,Present
+1023,PastNegNeutral,1023,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,For another.,They lost my appetite.,Past
+1024,PastNegPlural,1024,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Needless kidding recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent recent.,The chips and salsa were not that good.,Past
+1025,PresPosNeutral,1025,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,All of the dishes are very good.,Knowledgable kidding.,Present
+1026,PresNegSingular,1026,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,I hate.,It is a shame.,Present
+1027,PresPosNeutral,1027,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,What ' s is awesome.,They are so happy to work with.,Present
+1028,PastNegPlural,1028,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They did not even bother to make us.,Needless the amount were absolutely.,Past
+1029,PastNegSingular,1029,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"Sorry packed sorry sorry packed sorry  sorry served ; mention bartender attentive  informative patient , onions , it.",I was not impressed with this place.,Past
+1030,PastPosPlural,1030,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,I got a bit.,This place was great.,Past
+1031,PresPosSingular,1031,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It ' s worth it.,I loved.,Present
+1032,PastNegSingular,1032,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Their waitresses waitresses mention waitresses mention waitresses mention recent recent recent recent recent recent recent recent recent recent recent recent.,"Needless to say , i was disappointed.",Past
+1033,PresNegNeutral,1033,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,The people have been here so long.,Well maintained served served served  informative patient recent recent working ; waste waste waste s meal next next week.,Present
+1034,PastNegSingular,1034,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,This place was pretty empty.,13 minutes for lunch.,Past
+1035,PresNegSingular,1035,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,Sorry spinatos you are closed.,They are a mess in the area.,Present
+1036,PastNegPlural,1036,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,So we did not have any problems.,Sorry they gave us me feel.,Past
+1037,PastPosPlural,1037,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Packed there are closed.,Very nice people who helped me.,Past
+1038,PresPosPlural,1038,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,It ' s.,This is great.,Present
+1039,PastPosSingular,1039,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My family and i had a great experience.,She gets maintained than average ) almost half of buffalo wings wings.,Past
+1040,PastPosPlural,1040,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Our valley.,We loved this place.,Past
+1041,PastNegPlural,1041,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were incredibly rude.,We had to wait for a long time.,Past
+1042,PresPosPlural,1042,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,<unk> <eos>,We are regulars here.,Present
+1043,PastPosNeutral,1043,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Positive,We definitely found this place.,Informative and it.,Past
+1044,PresPosSingular,1044,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,Food is good and service is good.,Great dining experience.,Present
+1045,PastNegPlural,1045,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Tonight 13 mins of us.,The vegetables were not good.,Past
+1046,PastPosNeutral,1046,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,"Amazing , and it.",Was very nice and friendly.,Past
+1047,PastPosSingular,1047,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,I wanted a great job.,This place was a great experience.,Past
+1048,PastNegSingular,1048,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was not very good.,Nothing was.,Past
+1049,PresNegNeutral,1049,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Negative,But it ' s.,You have to be warned.,Present
+1050,PastNegNeutral,1050,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,This was not acceptable.,Getting the past.,Past
+1051,PresNegPlural,1051,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Well maintained maintained maintained served served served  sorry served served recent recent recent recent recent recent recent recent recent.,Not sure what they are doing.,Present
+1052,PastNegSingular,1052,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,$ 11 minutes.,The food was mediocre.,Past
+1053,PresPosPlural,1053,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The sandwiches are fresh and delicious.,They are closed impressed packed.,Present
+1054,PresPosNeutral,1054,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Great dining.,All of them are so good.,Present
+1055,PastNegSingular,1055,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,"Lame onions , onions , onions.",I thought the food was not good.,Past
+1056,PastNegSingular,1056,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,The food was not good.,Was terrible.,Past
+1057,PastNegNeutral,1057,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Neutral,Negative,They were not apologetic.,13 minutes for the.,Past
+1058,PresNegPlural,1058,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,They are closed impressed lucky pleasant.,And the employees are rude.,Present
+1059,PastPosSingular,1059,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My wife and i had a blast.,I wanted a huge.,Past
+1060,PastNegPlural,1060,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,They were very bland.,No one of us.,Past
+1061,PastNegSingular,1061,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Negative,It was not cooked to the sauce.,Veggie service was packed.,Past
+1062,PastPosSingular,1062,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,It was very flavorful and delicious.,Their bagel place is awesome.,Past
+1063,PresNegPlural,1063,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,Do not waste.,They are not helpful.,Present
+1064,PresPosPlural,1064,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,Been going to say.,The best thing we have had here.,Present
+1065,PastPosPlural,1065,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,<unk> <unk> <unk> <eos>,They got ta try the right away.,Past
+1066,PresPosSingular,1066,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Positive,Bob is pretty good.,All of the food is delicious.,Present
+1067,PastNegPlural,1067,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,` ` ` ` ` ` ` `.,They were all very rude.,Past
+1068,PastPosPlural,1068,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Positive,The kids loved the interactive exhibits.,Sorry they were completely doing half crap mention yelp valley server takes used know how badly recently.,Past
+1069,PresNegSingular,1069,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Singular,Negative,She gets has stopped stopped going going to say find pittsburgh area.,The front desk staff is rude.,Present
+1070,PastNegPlural,1070,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Plural,Negative,And the employees were very rude.,Bland bland and informative.,Past
+1071,PastNegPlural,1071,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Negative,There were absolutely ridiculous.,My friends were all in the numbers.,Past
+1072,PastPosSingular,1072,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,My wife and i had a great time.,Excellent sandwich.,Past
+1073,PresPosNeutral,1073,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Neutral,Positive,Knowledgable recommend your time money at this place.,My family and i love the classes here.,Present
+1074,PresPosPlural,1074,2021-Apr-30-09:22:17_6000_1,2021-Apr-27-09:53:10_6000_1,Plural,Positive,They keep it.,Thanks to all creatures.,Present
+1075,PresPosSingular,1075,2021-Apr-27-09:53:10_6000_1,2021-Apr-30-09:22:17_6000_1,Singular,Positive,The food is delicious.,Great place.,Present
